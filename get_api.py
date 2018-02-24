@@ -1,9 +1,9 @@
 # importing the requests library
 import requests
 
-def main():
+def get_coin_info():
+	'''return the name of the currency'''
 	currency = input("Enter your title\n").upper()
-
 	url = "https://api.coinmarketcap.com/v1/ticker/" + currency
 	result = requests.get(url)
 	JSON = result.json()
@@ -11,7 +11,7 @@ def main():
 	try:
 		format(JSON[0])
 	except:
-		returned = findSymbols(currency)
+		returned = find_symbols(currency)
 		if returned == 0:
 			print("No results found!")
 		else:
@@ -20,20 +20,22 @@ def main():
 			JSON = result.json()
 			format(JSON[0])
 			result.close()
+			return JSON[0]['name']
 
 
 def format(JSON):
 	print("Name: " + JSON["name"])
 	print("Symbol: " + JSON["symbol"])
 	print("USD: " + JSON["price_usd"])
-	print("Percent Change in last hour" +
-	JSON["percent_change_1h"])
+	print("Percent Change in last hour: " + JSON["percent_change_1h"])
 
-def findSymbols(currency):
-	fopen = open("mapping.txt", "r")
-	for line in fopen:
+def find_symbols(currency):
+	for line in currency_list:
 		split = line.split(":")
 		if split[0] == currency:
 			return split
 	return 0
 
+f = open("mapping.txt", "r")
+currency_list = f.readlines();
+f.close()
