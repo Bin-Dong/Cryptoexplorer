@@ -10,6 +10,4 @@ soup = BeautifulSoup(response,'html.parser')
 text = soup.get_text()
 start = text.find('Introduction')   # start location for introduction
 end = text.find('\n\n\n',start)
-print(text[start:end])
-# html = response.read().decode('utf-8')      # read from html
-# print(html)
+Introduction = text[start:end]
