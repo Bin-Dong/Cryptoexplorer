@@ -37,4 +37,3 @@ def findSymbols(currency):
 			return split
 	return 0
 
-main()
