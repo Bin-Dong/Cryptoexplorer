@@ -1,0 +1,1519 @@
+BTC:Bitcoin
+ETH:Ethereum
+XRP:Ripple
+BCH:Bitcoin Cash
+LTC:Litecoin
+ADA:Cardano
+NEO:NEO
+XLM:Stellar
+EOS:EOS
+MIOTA:IOTA
+DASH:Dash
+XMR:Monero
+ETC:Ethereum Classic
+XEM:NEM
+TRX:TRON
+VEN:VeChain
+USDT:Tether
+LSK:Lisk
+BTG:Bitcoin Gold
+QTUM:Qtum
+OMG:OmiseGO
+NANO:Nano
+ICX:ICON
+ZEC:Zcash
+BNB:Binance Coin
+STEEM:Steem
+XVG:Verge
+BCN:Bytecoin
+PPT:Populous
+DGD:DigixDAO
+STRAT:Stratis
+DOGE:Dogecoin
+SC:Siacoin
+RHOC:RChain
+WAVES:Waves
+SNT:Status
+MKR:Maker
+BTS:BitShares
+WTC:Waltonchain
+AE:Aeternity
+DCR:Decred
+REP:Augur
+ZRX:0x
+ETN:Electroneum
+VERI:Veritaseum
+HSR:Hshare
+KMD:Komodo
+R:Revain
+ARDR:Ardor
+ZCL:ZClassic
+KCS:KuCoin Shares
+LRC:Loopring
+ARK:Ark
+GAS:Gas
+ZIL:Zilliqa
+BAT:Basic Attention Token
+DRGN:Dragonchain
+BTM:Bytom
+MONA:MonaCoin
+DGB:DigiByte
+ELF:aelf
+SYS:Syscoin
+POLY:Polymath
+RDD:ReddCoin
+DENT:Dent
+PIVX:PIVX
+QASH:QASH
+NAS:Nebulas
+AION:Aion
+DCN:Dentacoin
+KNC:Kyber Network
+GNT:Golem
+GBYTE:Byteball Bytes
+BTX:Bitcore
+SALT:SALT
+GXS:GXShares
+ETHOS:Ethos
+FCT:Factom
+IOST:IOStoken
+CNX:Cryptonex
+FUN:FunFair
+LINK:ChainLink
+XZC:ZCoin
+POWR:Power Ledger
+KIN:Kin
+NXT:Nxt
+PLR:Pillar
+CND:Cindicator
+PART:Particl
+REQ:Request Network
+BNT:Bancor
+SMART:SmartCash
+ENG:Enigma
+NEBL:Neblio
+MAID:MaidSafeCoin
+VTC:Vertcoin
+RDN:Raiden Network Token
+PAY:TenX
+IGNIS:Ignis
+EMC:Emercoin
+QSP:Quantstamp
+BLOCK:Blocknet
+GAME:GameCredits
+AGI:SingularityNET
+WAX:WAX
+GNO:Gnosis
+ICN:Iconomi
+XP:Experience Points
+XDN:DigitalNote
+ENJ:Enjin Coin
+POE:Po.et
+XPA:XPA
+BTCD:BitcoinDark
+SAN:Santiment Network Token
+RPX:Red Pulse
+UNITY:SuperNET
+CVC:Civic
+SKY:Skycoin
+STORJ:Storj
+SUB:Substratum
+BCO:BridgeCoin
+ZEN:ZenCash
+STORM:Storm
+MANA:Decentraland
+LEND:ETHLend
+VEE:BLOCKv
+NAV:NAV Coin
+ADX:AdEx
+ACT:Achain
+NXS:Nexus
+PRL:Oyster
+TEL:Telcoin
+MED:MediBloc
+DEW:DEW
+DTR:Dynamic Trading Rights
+HPB:High Performance Blockchain
+PPP:PayPie
+TNB:Time New Bank
+PURA:Pura
+MCO:Monaco
+ANT:Aragon
+ITC:IoT Chain
+MDS:MediShares
+SPHTX:SophiaTX
+UBQ:Ubiq
+VIBE:VIBE
+RLC:iExec RLC
+UCASH:U.CASH
+INK:Ink
+DTA:DATA
+XAS:Asch
+BLZ:Bluzelle
+BIX:Bibox Token
+GVT:Genesis Vision
+C20:CRYPTO20
+MTL:Metal
+DBC:DeepBrain Chain
+PPC:Peercoin
+SNM:SONM
+THETA:Theta Token
+AST:AirSwap
+PAC:PACcoin
+WGR:Wagerr
+AMB:Ambrosus
+MNX:MinexCoin
+APPC:AppCoins
+OST:Simple Token
+SRN:SIRIN LABS Token
+CMT:CyberMiles
+EDO:Eidoo
+RCN:Ripio Credit Network
+EMC2:Einsteinium
+XBY:XTRABYTES
+JNT:Jibrel Network
+INS:INS Ecosystem
+WABI:WaBi
+MLN:Melon
+FUEL:Etherparty
+EDG:Edgeless
+VIA:Viacoin
+WPR:WePower
+DATA:Streamr DATAcoin
+WINGS:Wings
+GTO:Gifto
+BAY:BitBay
+SNGLS:SingularDTV
+XCP:Counterparty
+QRL:Quantum Resistant Ledger
+UTK:UTRUST
+NLG:Gulden
+NGC:NAGA
+ETP:Metaverse ETP
+BITB:Bean Cash
+NULS:Nuls
+BRD:Bread
+CDT:CoinDash
+HTML:HTMLCOIN
+BURST:Burst
+LUN:Lunyr
+TNT:Tierion
+MGO:MobileGo
+COB:Cobinhood
+TRIG:Triggers
+BTO:Bottos
+TNC:Trinity Network Credit
+MTN:Medicalchain
+TAAS:TaaS
+DPY:Delphy
+LBC:LBRY Credits
+AEON:Aeon
+CTR:Centra
+QLC:QLINK
+MOD:Modum
+HVN:Hive Project
+CLOAK:CloakCoin
+DNT:district0x
+SPANK:SpankChain
+ION:ION
+ECC:ECC
+IDH:indaHash
+NET:Nimiq
+GRS:Groestlcoin
+RISE:Rise
+PEPECASH:Pepe Cash
+AGRS:Agoras Tokens
+TRAC:OriginTrail
+COSS:COSS
+UKG:Unikoin Gold
+CRW:Crown
+ATM:ATMChain
+PRE:Presearch
+FTC:Feathercoin
+SBD:Steem Dollars
+STK:STK
+LKK:Lykke
+SAFEX:Safe Exchange Coin
+MER:Mercury
+SOC:All Sports
+BITCNY:bitCNY
+CAPP:Cappasity
+SLS:SaluS
+DMD:Diamond
+INT:Internet Node Token
+DIME:Dimecoin
+NMC:Namecoin
+VIB:Viberate
+ONION:DeepOnion
+DCT:DECENT
+TKN:TokenCard
+SXDT:Spectre.ai Dividend Token
+ADT:adToken
+DAT:Datum
+HST:Decision Token
+EVX:Everex
+BCPT:BlockMason Credit Protocol
+POT:PotCoin
+TSL:Energo
+SIB:SIBCoin
+COLX:ColossusCoinXT
+XWC:WhiteCoin
+OCN:Odyssey
+HMQ:Humaniq
+ZSC:Zeusshield
+QBT:Qbao
+MTH:Monetha
+ZPT:Zeepin
+SHIFT:Shift
+MOON:Mooncoin
+SWFTC:SwftCoin
+DLT:Agrello
+FLASH:Flash
+TAU:Lamden
+THC:HempCoin
+GRID:Grid+
+YOYOW:YOYOW
+SWM:Swarm
+ECA:Electra
+KEY:Selfkey
+MINT:Mintcoin
+BCC:BitConnect
+UNO:Unobtanium
+CFI:Cofound.it
+DADI:DADI
+IOC:I/O Coin
+LEO:LEOcoin
+SOAR:Soarcoin
+ARN:Aeron
+QUN:QunQun
+BPT:Blockport
+BLT:Bloom
+POSW:PoSW Coin
+XSPEC:Spectrecoin
+LA:LATOKEN
+CV:carVertical
+GTC:Game.com
+TRST:WeTrust
+1ST:FirstBlood
+BLK:BlackCoin
+NLC2:NoLimitCoin
+PASC:Pascal Coin
+VOX:Voxels
+COV:Covesting
+XEL:Elastic
+NMR:Numeraire
+TIO:Trade Token
+MDA:Moeda Loyalty Points
+TIX:Blocktix
+PRO:Propy
+XSH:SHIELD
+UQC:Uquid Coin
+GRC:GridCoin
+CAN:CanYaCoin
+MOT:Olympus Labs
+SNC:SunContract
+DRT:DomRaider
+MSP:Mothership
+BDG:BitDegree
+WRC:Worldcore
+FAIR:FairCoin
+AURA:Aurora DAO
+AMP:Synereo
+CAT:BitClave
+WCT:Waves Community Token
+RADS:Radium
+HAC:Hackspace Capital
+NYC:NewYorkCoin
+OTN:Open Trading Network
+RVT:Rivetz
+IPL:InsurePal
+GUP:Matchpool
+ORME:Ormeus Coin
+ECN:E-coin
+BOT:Bodhi
+OMNI:Omni
+IXT:iXledger
+SNOV:Snovio
+VRC:VeriCoin
+EXP:Expanse
+PHR:Phore
+DAI:Dai
+MYB:MyBit Token
+XMY:Myriad
+STX:Stox
+SLR:SolarCoin
+PRG:Paragon
+GOLOS:Golos
+HOT:Hydro Protocol
+ENRG:Energycoin
+BIS:Bismuth
+EDR:E-Dinar Coin
+PRA:ProChain
+UNIT:Universal Currency
+OAX:OAX
+NEU:Neumark
+HDG:Hedge
+AXP:aXpire
+RBY:Rubycoin
+OK:OKCash
+KICK:KickCoin
+QAU:Quantum
+MUE:MonetaryUnit
+BBR:Boolberry
+PST:Primas
+DBET:DecentBet
+CLAM:Clams
+KRM:Karma
+BMC:Blackmoon
+ZOI:Zoin
+ATB:ATBCoin
+BSD:BitSend
+LMC:LoMoCoin
+GBX:GoByte
+BITUSD:bitUSD
+PARETO:Pareto Network
+OCT:OracleChain
+GAM:Gambit
+DNA:EncrypGen
+PZM:PRIZM
+HORSE:Ethorse
+CXO:CargoX
+HKN:Hacken
+CSNO:BitDice
+ALIS:ALIS
+NVST:NVO
+AUR:Auroracoin
+TIPS:FedoraCoin
+LINDA:Linda
+TOA:ToaCoin
+HBT:Hubii Network
+DTB:Databits
+XPM:Primecoin
+OXY:Oxycoin
+MEE:CoinMeet
+AIR:AirToken
+DICE:Etheroll
+SWT:Swarm City
+RNT:OneRoot Network
+NEOS:NeosCoin
+SYNX:Syndicate
+TIME:Chronobank
+ICOS:ICOS
+LOC:LockChain
+FLDC:FoldingCoin
+FLO:FlorinCoin
+HGT:HelloGold
+NTRN:Neutron
+XAUR:Xaurum
+PLBT:Polybius
+LUX:LUXCoin
+DBIX:DubaiCoin
+VOISE:Voise
+SPF:SportyCo
+RMC:Russian Miner Coin
+BNTY:Bounty0x
+XLR:Solaris
+USNBT:NuBits
+PTOY:Patientory
+BQ:bitqy
+XUC:Exchange Union
+IFT:InvestFeed
+MYST:Mysterium
+RMT:SureRemit
+BLUE:BLUE
+KLC:KiloCoin
+POLL:ClearPoll
+PND:Pandacoin
+NXC:Nexium
+EBTC:eBitcoin
+LOCI:LOCIcoin
+COVAL:Circuits of Value
+XRL:Rialto
+GCR:Global Currency Reserve
+LIFE:LIFE
+ESP:Espers
+PFR:Payfair
+ELIX:Elixir
+DIVX:Divi
+ZLA:Zilla
+EMV:Ethereum Movie Venture
+AIT:AICHAIN
+INCNT:Incent
+MUSIC:Musicoin
+XTO:Tao
+PKT:Playkey
+CAT:BlockCAT
+AVT:Aventus
+LCT:LendConnect
+CURE:Curecoin
+DYN:Dynamic
+TCC:The ChampCoin
+EVR:Everus
+PUT:Profile Utility Token
+BCY:Bitcrystals
+ING:Iungo
+PINK:PinkCoin
+B2B:B2BX
+OBITS:OBITS
+LEV:Leverj
+NIO:Autonio
+PLAY:HEROcoin
+ALQO:ALQO
+IOP:Internet of People
+SXUT:Spectre.ai Utility Token
+VIU:Viuly
+STAR:Starbase
+RIC:Riecoin
+BTCZ:BitcoinZ
+XMCC:Monoeci
+HEAT:HEAT
+ABY:ArtByte
+GET:GET Protocol
+FLIXX:Flixxo
+GAT:Gatcoin
+SEQ:Sequence
+XST:Stealthcoin
+CAG:Change
+ARY:Block Array
+NVC:Novacoin
+ATMS:Atmos
+SPHR:Sphere
+INXT:Internxt
+ERO:Eroscoin
+CVCOIN:CVCoin
+PIRL:Pirl
+AID:AidCoin
+EAC:EarthCoin
+XVC:Vcash
+RC:RussiaCoin
+SPRTS:Sprouts
+DOPE:DopeCoin
+PIX:Lampix
+DRP:DCORP
+DOVU:Dovu
+SUMO:Sumokoin
+HYP:HyperStake
+SSS:Sharechain
+BWK:Bulwark
+AIX:Aigang
+MEME:Memetic / PepeCoin
+REBL:Rebellious
+POLIS:Polis
+BON:Bonpay
+TRF:Travelflex
+1337:Elite
+VTR:vTorrent
+CHIPS:CHIPS
+QWARK:Qwark
+FLIK:FLiK
+BET:DAO.Casino
+BUN:BunnyCoin
+TIE:TIES Network
+XBC:Bitcoin Plus
+JC:Jesus Coin
+ADB:adbank
+ADST:AdShares
+ZEIT:Zeitcoin
+DOT:Dotcoin
+ERC:EuropeCoin
+PBL:Publica
+GLD:GoldCoin
+UFO:Uniform Fiscal Object
+SCL:Social
+GCN:GCN Coin
+HUSH:Hush
+BELA:Bela
+DNR:Denarius
+CRED:Verify
+CPAY:Cryptopay
+INN:Innova
+ODN:Obsidian
+PTC:Pesetacoin
+REC:Regalcoin
+EVE:Devery
+DGPT:DigiPulse
+NSR:NuShares
+BRX:Breakout Stake
+ZRC:ZrCoin
+TRCT:Tracto
+SNRG:Synergy
+TFL:TrueFlip
+REAL:REAL
+ONG:onG.social
+ATL:ATLANT
+MTNC:Masternodecoin
+PBT:Primalbase Token
+BTDX:Bitcloud
+BTM:Bitmark
+TX:TransferCoin
+VSX:Vsync
+2GIVE:2GIVE
+MONK:Monkey Project
+HWC:HollyWoodCoin
+DFT:DraftCoin
+KORE:Kore
+ZNY:Bitzeny
+TKS:Tokes
+STA:Starta
+APX:APX
+VRM:VeriumReserve
+CRB:Creditbit
+ADC:AudioCoin
+BLITZ:Blitzcash
+FRD:Farad
+WILD:Wild Crypto
+EXCL:ExclusiveCoin
+MNTP:GoldMint
+OPT:Opus
+WISH:MyWish
+BPL:Blockpool
+KRB:Karbo
+UFR:Upfiring
+BUZZ:BuzzCoin
+AMM:MicroMoney
+MCAP:MCAP
+BRK:Breakout
+NKA:IncaKoin
+CANN:CannabisCoin
+AI:POLY AI
+TZC:TrezarCoin
+HAT:Hawala.Today
+CREA:Creativecoin
+SEND:Social Send
+SXC:Sexcoin
+HUC:HunterCoin
+ALT:Altcoin
+PDC:Project Decorum
+MZC:MAZA
+HOLD:Interstellar Holdings
+CL:Coinlancer
+IC:Ignition
+BDL:Bitdeal
+TRC:Terracoin
+FOR:FORCE
+FYP:FlypMe
+XGOX:XGOX
+SMS:Speed Mining Service
+ZER:Zero
+EGC:EverGreenCoin
+MAG:Magnet
+SPR:SpreadCoin
+CMPCO:CampusCoin
+PUT:PutinCoin
+IND:Indorse Token
+START:Startcoin
+TRUST:TrustPlus
+QVT:Qvolta
+RUP:Rupee
+PYLNT:Pylon Network
+CHC:ChainCoin
+SWIFT:Bitswift
+ITNS:IntenseCoin
+NOTE:DNotes
+UNY:Unity Ingot
+HXX:Hexx
+IXC:Ixcoin
+EBST:eBoost
+RAIN:Condensate
+PROC:ProCurrency
+STU:bitJob
+SLT:Smartlands
+QRK:Quark
+EFL:e-Gulden
+ETBS:Ethbits
+PURE:Pure
+PKB:ParkByte
+GRE:Greencoin
+ZEPH:Zephyr
+WTT:Giga Watt Token
+CARBON:Carboncoin
+CRC:CrowdCoin
+ADZ:Adzcoin
+YOC:Yocoin
+PING:CryptoPing
+XMG:Magi
+ELLA:Ellaism
+DCY:Dinastycoin
+TES:TeslaCoin
+LDOGE:LiteDoge
+CBX:Crypto Bullion
+GCC:TheGCCcoin
+OCL:Oceanlab
+MBRS:Embers
+VIVO:VIVO
+SMLY:SmileyCoin
+STAK:STRAKS
+PLC:PlusCoin
+ELTCOIN:ELTCOIN
+DP:DigitalPrice
+V:Version
+CRM:Cream
+NDC:NEVERDIE
+UNIFY:Unify
+ARC:ArcticCoin
+XCPO:Copico
+FUCK:FuckToken
+ACC:Accelerator Network
+MRJA:GanjaCoin
+CDN:Canada eCoin
+PHO:Photon
+NOBL:NobleCoin
+42:42-coin
+POP:PopularCoin
+MOIN:Moin
+XLC:LeviarCoin
+LINX:Linx
+SKIN:SkinCoin
+MAX:MaxCoin
+MRT:Miners' Reward Token
+FST:Fastcoin
+CDX:Commodity Ad Network
+MAC:Machinecoin
+AU:AurumCoin
+UNI:Universe
+BTA:Bata
+BTCS:Bitcoin Scrypt
+KEK:KekCoin
+GRWI:Growers International
+XFT:Footy Cash
+RUPX:Rupaya
+UIS:Unitus
+FJC:FujiCoin
+ECASH:Ethereum Cash
+XPD:PetroDollar
+RNS:Renos
+INSN:InsaneCoin
+I0C:I0Coin
+FRST:FirstCoin
+ITT:Intelligent Trading Tech
+WDC:WorldCoin
+BYC:Bytecent
+ZENI:Zennies
+UNB:UnbreakableCoin
+ABJ:Abjcoin
+LGD:Legends Room
+BPC:Bitpark Coin
+OPC:OP Coin
+MEC:Megacoin
+ZET:Zetacoin
+JET:Jetcoin
+EPY:Emphy
+BRO:Bitradio
+XCN:Cryptonite
+NET:NetCoin
+ERA:ERA
+ARI:Aricoin
+SUR:Suretly
+BBP:BiblePay
+ATS:Authorship
+PIGGY:Piggycoin
+EBET:EthBet
+CJ:Cryptojacks
+LOG:Woodcoin
+ITI:iTicoin
+ARCT:ArbitrageCT
+KBR:Kubera Coin
+HODL:HOdlcoin
+ACE:Ace
+RLT:RouletteToken
+XPTX:PlatinumBAR
+WAND:WandX
+DGC:Digitalcoin
+CCRB:CryptoCarbon
+KLN:Kolion
+GUN:Guncoin
+BTB:BitBar
+TTC:TittieCoin
+EL:Elcoin
+SMC:SmartCoin
+ELE:Elementrem
+UNIC:UniCoin
+HPC:Happycoin
+LANA:LanaCoin
+BRIT:BritCoin
+ERC20:ERC20
+HBC:HomeBlockCoin
+PIPL:PiplCoin
+KOBO:Kobocoin
+TRI:Triangles
+DEM:Deutsche eMark
+NETKO:Netko
+EQL:Equal
+TRUMP:TrumpCoin
+VISIO:Visio
+GRLC:Garlicoin
+DFS:DFSCoin
+ETG:Ethereum Gold
+CTX:CarTaxi Token
+CPC:Capricoin
+Q2C:QubitCoin
+HERO:Sovereign Hero
+EBCH:eBitcoinCash
+ARG:Argentum
+CFT:CryptoForecast
+RKC:Royal Kingdom Coin
+GRIM:Grimcoin
+TIT:Titcoin
+BTCRED:Bitcoin Red
+RBT:Rimbit
+OPAL:Opal
+XBL:Billionaire Token
+FC2:FuelCoin
+HAL:Halcyon
+CNT:Centurion
+DRXNE:DROXNE
+MNE:Minereum
+UTC:UltraCoin
+808:808Coin
+SCT:Soma
+OTX:Octanox
+ENT:Eternity
+PAK:Pakcoin
+BLC:Blakecoin
+BLOCKPAY:BlockPay
+CV2:Colossuscoin V2
+SRC:SecureCoin
+BUCKS:SwagBucks
+XHI:HiCoin
+IETH:iEthereum
+PXC:Phoenixcoin
+TOKC:TOKYO
+XJO:Joulecoin
+STN:Steneum Coin
+MANNA:Manna
+PCOIN:Pioneer Coin
+MOJO:MojoCoin
+DSR:Desire
+GB:GoldBlocks
+AMS:AmsterdamCoin
+KURT:Kurrent
+TRK:Truckcoin
+TGC:Tigercoin
+XCXT:CoinonatX
+MOTO:Motocoin
+ACC:AdCoin
+8BIT:8Bit
+KAYI:Kayicoin
+WHL:WhaleCoin
+TEK:TEKcoin
+SLG:Sterlingcoin
+BTG:Bitgem
+BOLI:Bolivarcoin
+GLT:GlobalToken
+CHAN:ChanCoin
+WGO:WavesGo
+DDF:DigitalDevelopersFund
+DAXX:DaxxCoin
+SWING:Swing
+BITSILVER:bitSilver
+LTB:LiteBar
+RED:RedCoin
+CRX:Chronos
+SDRN:Senderon
+EVIL:Evil Coin
+STV:Sativacoin
+POST:PostCoin
+LEA:LeaCoin
+ZZC:ZoZoCoin
+INFX:Influxcoin
+LCP:Litecoin Plus
+ZCG:Zlancer
+MARS:Marscoin
+CCT:Crystal Clear 
+ROOFS:Roofs
+DIBC:DIBCOIN
+ETHD:Ethereum Dark
+SGR:Sugar Exchange
+ONX:Onix
+XRA:Ratecoin
+DSH:Dashcoin
+NTO:Fujinto
+JIN:Jin Coin
+NEWB:Newbium
+PXI:Prime-XI
+POS:PoSToken
+PASL:Pascal Lite
+BTPL:Bitcoin Planet
+VOT:VoteCoin
+RBIES:Rubies
+PHS:Philosopher Stones
+CCN:CannaCoin
+KUSH:KushCoin
+MCRN:MACRON
+SPACE:SpaceCoin
+QCN:QuazarCoin
+611:SixEleven
+HONEY:Honey
+EMD:Emerald Crypto
+ATOM:Atomic Coin
+DUO:ParallelCoin
+AIB:Advanced Internet Blocks
+XIOS:Xios
+SAGA:SagaCoin
+CAT:Catcoin
+EOT:EOT Token
+NUKO:Nekonium
+LBTC:LiteBitcoin
+REE:ReeCoin
+COAL:BitCoal
+QBIC:Qbic
+BSTY:GlobalBoost-Y
+ECO:EcoCoin
+XBTS:Beatcoin
+TRDT:Trident Group
+YTN:YENTEN
+RPC:RonPaulCoin
+ASAFE2:AllSafe
+ICOB:ICOBID
+TAJ:TajCoin
+GTC:Global Tour Coin
+GLS:GlassCoin
+FNC:FinCoin
+DALC:Dalecoin
+CON:PayCon
+MDC:Madcoin
+BIP:BipCoin
+IMX:Impact
+300:300 Token
+CMT:Comet
+SOIL:SOILcoin
+CPN:CompuCoin
+XCRE:Creatio
+ERY:Eryllium
+XCO:X-Coin
+QBC:Quebecoin
+LUNA:Luna Coin
+ALL:Allion
+OFF:Cthulhu Offerings
+ICE:iDice
+GP:GoldPieces
+XNG:Enigma
+SONG:SongCoin
+BOST:BoostCoin
+MAY:Theresa May Coin
+SLEVIN:Slevin
+CACH:CacheCoin
+BNX:BnrtxCoin
+$$$:Money
+HMP:HempCoin
+SFC:Solarflarecoin
+MSCN:Master Swiscoin
+CXT:Coinonat
+KRONE:Kronecoin
+ALTCOM:SONO
+COXST:CoExistCoin
+BENJI:BenjiRolls
+LTCU:LiteCoin Ultra
+PRX:Printerium
+VPRC:VapersCoin
+ICON:Iconic
+PLACO:PlayerCoin
+WOMEN:WomenCoin
+ACP:AnarchistsPrime
+DRM:Dreamcoin
+PLNC:PLNcoin
+GBC:GBCGoldCoin
+EXN:ExchangeN
+VOLT:Bitvolt
+VRS:Veros
+XRC:Rawcoin
+ARGUS:Argus
+SOCC:SocialCoin
+COUPE:Coupecoin
+CREVA:CrevaCoin
+ULA:Ulatech
+CTIC2:Coimatic 2.0
+NANOX:Project-X
+VLTC:Vault Coin
+AERM:Aerium
+EXRN:EXRNchain
+PRC:PRCoin
+LVPS:LevoPlus
+TSTR:Tristar Coin
+HMC:HarmonyCoin
+ABN:Abncoin
+EBT:Ebittree Coin
+DMB:Digital Money Bits
+ART:Maecenas
+PPY:Peerplays
+TGT:Target Coin
+CREDO:Credo
+ECOB:Ecobit
+PLU:Pluton
+PGL:Prospectors Gold
+AC:AsiaCoin
+VTA:Virtacoin
+XNN:Xenon
+REX:REX
+BBT:BitBoost
+GJC:Global Jobcoin
+ETT:EncryptoTel [WAVES]
+EVC:EventChain
+PRIX:Privatix
+MXT:MarteXcoin
+GOOD:Goodomy
+VSL:vSlice
+ANC:Anoncoin
+EFYT:Ergo
+BASH:LuckChain
+BLU:BlueCoin
+EQT:EquiTrader
+YASH:YashCoin
+DAR:Darcrus
+MAGE:MagicCoin
+IFLT:InflationCoin
+FYN:FundYourselfNow
+DAY:Chronologic
+SKC:Skeincoin
+ICOO:ICO OpenLedger
+LEAF:LeafCoin
+FIMK:FIMKrypto
+SHORTY:Shorty
+FLT:FlutterCoin
+RIYA:Etheriya
+INPAY:InPay
+MBI:Monster Byte
+SDC:ShadowCash
+ORB:Orbitcoin
+FCN:Fantomcoin
+STRC:StarCredits
+AHT:Bowhead
+METAL:MetalCoin
+BITS:Bitstar
+LNK:Link Platform
+SCORE:Scorecoin
+RUSTBITS:Rustbits
+USC:Ultimate Secure Cash
+HTC:HitCoin
+GAIA:GAIA
+TROLL:Trollcoin
+BXT:BitTokens
+HBN:HoboNickels
+FLY:Flycoin
+NYAN:Nyancoin
+BTWTY:Bit20
+VIDZ:PureVidz
+TALK:BTCtalkcoin
+TSE:Tattoocoin (Standard Edition)
+BLZ:BlazeCoin
+CUBE:DigiCube
+CFD:Confido
+BITZ:Bitz
+XPY:PayCoin
+SIGT:Signatum
+TKR:CryptoInsight
+SUPER:SuperCoin
+PR:Prototanium
+AMMO:Ammo Reloaded
+B@:Bankcoin
+FUNC:FUNCoin
+VAL:Valorbit
+GAP:Gapcoin
+BTCR:Bitcurrency
+BITBTC:bitBTC
+BIGUP:BigUp
+ICN:iCoin
+XRE:RevolverCoin
+WAY:WayGuide
+XGR:GoldReserve
+ARCO:AquariusCoin
+CNO:Coin(O)
+CHESS:ChessCoin
+GLC:GlobalCoin
+C2:Coin2.1
+888:OctoCoin
+BERN:BERNcash
+BRIA:BriaCoin
+NEVA:NevaCoin
+MNM:Mineum
+J:Joincoin
+MNC:Mincoin
+FRC:Freicoin
+BCF:Bitcoin Fast
+XCT:C-Bit
+CASH:Cashcoin
+PX:PX
+BITGOLD:bitGold
+CTO:Crypto
+EUC:Eurocoin
+HNC:Helleniccoin
+XVP:Virtacoinplus
+STARS:StarCash Network
+IMS:Independent Money System
+SOON:SoonCoin
+VC:VirtualCoin
+UNITS:GameUnits
+KED:Darsek
+CCO:Ccore
+AMBER:AmberCoin
+MAO:Mao Zedong
+SHDW:Shadow Token
+TAG:TagCoin
+SPEX:SproutsExtreme
+CYP:Cypher
+MST:MustangCoin
+BUMBA:BumbaCoin
+DTC:Datacoin
+SCRT:SecretCoin
+QTL:Quatloo
+DLC:Dollarcoin
+ZUR:Zurcoin
+ACOIN:Acoin
+SAC:SACoin
+ADCN:Asiadigicoin
+RMC:Remicoin
+ISL:IslaCoin
+DIX:Dix Asset
+EVO:Evotion
+DRS:Digital Rupees
+MAD:SatoshiMadness
+VLT:Veltor
+BRAT:BROTHER
+CNNC:Cannation
+FLAX:Flaxscript
+VUC:Virta Unique Coin
+FUZZ:FuzzBalls
+NRO:Neuro
+YAC:Yacoin
+XBTC21:Bitcoin 21
+DBTC:Debitcoin
+EAGLE:EagleCoin
+RBX:Ripto Bux
+FRK:Franko
+MAR:Marijuanacoin
+BXC:Bitcedi
+GPU:GPU Coin
+BITEUR:bitEUR
+SCS:Speedcash
+JS:JavaScript Token
+SPT:Spots
+FIRE:Firecoin
+BAS:BitAsean
+ANTI:AntiBitcoin
+BTQ:BitQuark
+GCC:GuccioneCoin
+GPL:Gold Pressed Latinum
+CF:Californium
+BLN:Bolenum
+VEC2:VectorAI
+WARP:WARP
+WORM:HealthyWormCoin
+VIP:VIP Tokens
+ATX:Artex Coin
+LTCR:Litecred
+UET:Useless Ethereum Token
+BLRY:BillaryCoin
+MILO:MiloCoin
+JWL:Jewels
+URO:Uro
+EGO:EGO
+DLISK:DAPPSTER
+SOJ:Sojourn
+MTLMC3:Metal Music Coin
+PONZI:PonziCoin
+CESC:CryptoEscudo
+BRAIN:Braincoin
+SH:Shilling
+URC:Unrealcoin
+MND:MindCoin
+WBB:Wild Beast Block
+ARB:ARbit
+JOBS:JobsCoin
+BSTAR:Blackstar
+PEX:PosEx
+ZMC:ZetaMicron
+ORLY:Orlycoin
+PULSE:Pulse
+BOAT:BOAT
+GEERT:GeertCoin
+ZYD:Zayedcoin
+TAGR:TAGRcoin
+CWXT:CryptoWorldX Token
+OS76:OsmiumCoin
+XOC:Xonecoin
+LIR:LetItRide
+G3N:G3N
+RIDE:Ride My Car
+STEPS:Steps
+DES:Destiny
+KNC:KingN Coin
+TYCHO:Tychocoin
+PIE:PIECoin
+BSC:BowsCoin
+HVCO:High Voltage
+BIOS:BiosCrypto
+IMPS:ImpulseCoin
+TOR:Torcoin
+AGLC:AgrolifeCoin
+ZNE:Zonecoin
+CRT:CRTCoin
+RSGP:RSGPcoin
+CRDNC:Credence Coin
+IBANK:iBank
+DOLLAR:Dollar Online
+CAB:Cabbage
+ELS:Elysium
+BIOB:BioBar
+SDP:SydPak
+CTIC3:Coimatic 3.0
+ALTC:Antilitecoin
+P7C:P7Coin
+FXE:FuturXe
+CONX:Concoin
+NODC:NodeCoin
+SANDG:Save and Gain
+GSR:GeyserCoin
+MGM:Magnum
+SLFI:Selfiecoin
+CCM100:CCMiner
+CALC:CaliphCoin
+DGCS:Digital Credits
+PIZZA:PizzaCoin
+HT:Huobi Token
+ELA:Elastos
+ATMC:ATMCoin
+WIC:WaykiChain
+HPY:Hyper Pay
+EKT:EDUCare
+CHAT:ChatCoin
+RUFF:Ruff
+TRUE:True Chain
+LET:LinkEye
+OC:OceanChain
+AIDOC:AI Doctor
+TOPC:TopChain
+BCD:Bitcoin Diamond
+GNX:Genaro Network
+LBTC:Lightning Bitcoin [Futures]
+SMT:SmartMesh
+CPC:CPChain
+FRGC:Fargocoin
+CFUN:CFun
+AAC:Acute Angle Cloud
+MTX:Matryx
+NKC:Nework
+SHOW:Show
+PRS:PressOne
+HLC:HalalChain
+EKO:EchoLink
+YEE:Yee
+READ:Read
+FAIR:FairGame
+OF:OFCOIN
+GEM:Gems 
+EPC:Electronic PK Chain
+UBTC:United Bitcoin
+XTZ:Tezos (Pre-Launch)
+AWR:AWARE
+W3C:W3Coin
+FSN:Fusion
+PXS:Pundi X
+LCC:Litecoin Cash
+BCX:BitcoinX
+LIGHT:LightChain
+ACC:ACChain
+CAN:Content and AD Network
+MAN:Matrix AI Network
+BOS:BOScoin
+CME:Cashme
+TKY:THEKEY
+UGT:UG Token
+STC:StarChain
+REN:Republic Protocol
+KCASH:Kcash
+HMC:Hi Mutual Society
+MWAT:RED MWAT
+SEXC:ShareX
+SBTC:Super Bitcoin
+VLC:ValueChain
+SSC:SelfSell
+RCT:RealChain
+MOF:Molecular Future
+INF:InfChain
+IPC:IPChain
+MOBI:Mobius
+ATN:ATN
+SPC:SpaceChain
+CHSB:SwissBorg
+CANDY:Candy
+UTNP:Universa
+XIN:Mixin
+TIG:Tigereum
+QUBE:Qube
+IQT:iQuant
+DDD:Scry.info
+BAR:Titanium Blockchain
+GEO:GeoCoin
+ECH:Etherecash
+EVN:Envion
+MOAC:MOAC
+BKX:Bankex
+UIP:UnlimitedIP
+AVH:Animation Vision Cash
+TDX:Tidex Token
+CMS:COMSA [ETH]
+REF:RefToken
+UGC:ugChain
+FOTA:Fortuna
+ANI:Animecoin
+BIG:BigONE Token
+CMS:COMSA [XEM]
+WETH:WETH
+NTK:Neurotoken
+WC:WINCOIN
+FIL:Filecoin [Futures]
+SWTC:Jingtum Tech
+TMC:TimesCoin
+XID:Sphre AIR 
+MGC:MergeCoin
+XIN:Infinity Economics
+JEW:Shekel
+SBC:StrikeBitClub
+COFI:CoinFi
+B2X:SegWit2x
+KZC:Kzcash
+CRPT:Crypterium
+IDT:InvestDigital
+ACAT:Alphacat
+ZENGOLD:ZenGold
+MDT:Measurable Data Token
+CPY:Copytrack
+GLA:Gladius Token
+MLM:MktCoin
+TCT:TokenClub
+ENT:ENTCash
+TBX:Tokenbox
+MAG:Maggie
+CLUB:ClubCoin
+ESZ:EtherSportz
+VZT:Vezt
+NMS:Numus
+SHND:StrongHands
+THS:TechShares
+CAS:Cashaa
+DIM:DIMCOIN
+BIO:BioCoin
+IFC:Infinitecoin
+CLD:Cloud
+GCS:GameChain System
+DTH:Dether
+DXT:Datawallet
+DAV:DavorCoin
+SHELL:ShellCoin
+IDXM:IDEX Membership
+SJW:SJWCoin
+QBT:Cubits
+BTW:Bitcoin White
+MSD:MSD
+BCDN:BlockCDN
+SIC:Swisscoin
+XQN:Quotient
+KB3:B3Coin
+CSC:CasinoCoin
+EAG:EA Coin
+TOK:Tokugawa
+ESC:Escroco
+TOKEN:SwapToken
+LDCN:LandCoin
+GBG:Golos Gold
+CEFS:CryptopiaFeeShares
+BTCA:Bitair
+CRAVE:Crave
+MVC:Maverick Chain
+SPK:Sparks
+OX:OX Fina
+ORE:Galactrum
+PCN:PeepCoin
+WIC:Wi Coin
+ZAP:Zap
+DMC:DynamicCoin
+PNX:Phantomx
+PCS:Pabyosi Coin (Special)
+GRX:GOLD Reward Token
+HC:Harvest Masternode Coin
+WA:WA Space
+GOD:Bitcoin God
+OPES:Opescoin
+BSN:Bastonet
+BTE:BitSerial
+VASH:VPNCoin
+BSR:BitSoar
+NEOG:NEO GOLD
+XMRG:Monero Gold
+MUSE:MUSE
+FDX:FidentiaX
+SENSE:Sense
+SUP:Superior Coin
+DMT:DMarket
+IRL:IrishCoin
+XSTC:Safe Trade Coin
+TCOIN:T-coin
+UTT:United Traders Token
+MCR:Macro
+GAY:GAY Money
+SJCX:Storjcoin X
+TER:TerraNova
+HTML5:HTML5COIN
+BCA:Bitcoin Atom
+ABC:Alphabit
+CYDER:Cyder
+BAT:BatCoin
+XRY:Royalties
+ELC:Elacoin
+DRPU:DRP Utility
+DEUS:DeusCoin
+NOX:Nitro
+SHA:SHACoin
+PLX:PlexCoin
+EDRC:EDRCoin
+FLAP:FlappyCoin
+HDLB:HODL Bucks
+RICHX:RichCoin
+SND:Sand Coin
+VULC:Vulcano
+GDC:GrandCoin
+TOP:TopCoin
+BIT:First Bitcoin
+FRN:Francs
+AKY:Akuya Coin
+BTBc:Bitbase
+BT2:BT2 [CST]
+GUESS:Peerguess
+ELITE:Ethereum Lite
+FAP:FAPcoin
+UNRC:UniversalRoyalCoin
+RBBT:RabbitCoin
+BEST:BestChain
+INDI:Indicoin
+WINK:Wink
+BLAZR:BlazerCoin
+ZBC:Zilbercoin
+SAK:Sharkcoin
+ROYAL:RoyalCoin
+PRN:Protean
+SKR:Sakuracoin
+QORA:Qora
+MAGN:Magnetcoin
+SFE:SafeCoin
+GARY:President Johnson
+ZSE:ZSEcoin
+SKULL:Pirate Blocks
+NAMO:NamoCoin
+REGA:Regacoin
+DUTCH:Dutch Coin
+COR:CORION
+SLOTH:Slothcoin
+WSX:WeAreSatoshi
+NBIT:netBit
+GOLF:Golfcoin
+UR:UR
+LKC:LinkedCoin
+MCI:Musiconomi
+APC:AlpaCoin
+JIYO:Jiyo
+BUB:Bubble
+GRN:Granite
+LEVO:Levocoin
+PRES:President Trump
+HIGH:High Gain
+RUPX:Rupaya [OLD]
+TELL:Tellurion
+FAZZ:Fazzcoin
+ETT:EncryptoTel [ETH]
+LEPEN:LePen
+MINEX:Minex
+SISA:SISA
+POKE:PokeCoin
+NUMUS:NumusCash
+CFC:CoffeeCoin
+STEX:STEX
+BTCM:BTCMoon
+GMX:GoldMaxCoin
+CMP:Compcoin
+FONZ:Fonziecoin
+EGOLD:eGold
+INDIA:India Coin
+ANTX:Antimatter
+MARX:MarxCoin
+PLC:Polcoin
+HYPER:Hyper
+DON:Donationcoin
+NTC:Natcoin
+XTD:XTD Coin
+ACES:Aces
+TRICK:TrickyCoin
+HNC:Huncoin
+TURBO:TurboCoin
+X2:X2
+MONETA:Moneta
+UNC:UNCoin
+KDC:KlondikeCoin
+RUNNERS:Runners
+HCC:Happy Creator Coin
+PRIMU:Primulon
+HALLO:Halloween Coin
+TODAY:TodayCoin
+PSY:Psilocybin
+WOW:Wowcoin
+FFC:FireFlyCoin
+RUBIT:RubleBit
+DBG:Digital Bullion Gold
+SIGMA:SIGMAcoin
+DISK:DarkLisk
+PAYP:PayPeer
+MBL:MobileCash
+RYZ:ANRYZE
+DCRE:DeltaCredits
+FUTC:FutCoin
+BET:BetaCoin
+ACN:Avoncoin
+CC:CyberCoin
+ASN:Aseancoin
+YES:Yescoin
+FRWC:FrankyWillCoin
+PDG:PinkDog
+TEAM:TeamUp
+TOPAZ:Topaz Coin
+BIRDS:Birds
+KARMA:Karmacoin
+TLE:Tattoocoin (Limited Edition)
+RCN:Rcoin
+CHEAP:Cheapcoin
+DASHS:Dashs
+SMOKE:Smoke
+OP:Operand
+EGG:EggCoin
+VOYA:Voyacoin
+XAU:Xaucoin
+MMXVI:MMXVI
+MONEY:MoneyCoin
+GAIN:UGAIN
+AV:AvatarCoin
+AXIOM:Axiom
+LTH:LAthaan
+KASHH:KashhCoin
+BITOK:Bitok
+PRM:PrismChain
+CYC:Cycling Coin
+OMC:Omicron
+XID:International Diamond
+RHFC:RHFCoin
+SNAKE:SnakeEyes
+GML:GameLeagueCoin
+DUB:Dubstep
+IVZ:InvisibleCoin
+BAC:BitAlphaCoin
+TCR:TheCreed
+TESLA:TeslaCoilCoin
+SPORT:SportsCoin
+LAZ:Lazaruscoin
+XVE:The Vegan Initiative
+XOT:Internet of Things
+BITCF:First Bitcoin Capital
+FID:BITFID
+LLT:LLToken
+TRIA:Triaconta
+FRCT:Farstcoin
+OCOW:OCOW
+XDE2:XDE II
+ADK:Aidos Kuneen
