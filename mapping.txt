@@ -1,7 +1,7 @@
 BTC:Bitcoin
 ETH:Ethereum
 XRP:Ripple
-BCH:Bitcoin Cash
+BCH:Bitcoin-Cash
 LTC:Litecoin
 ADA:Cardano
 NEO:NEO
@@ -10,26 +10,26 @@ EOS:EOS
 MIOTA:IOTA
 DASH:Dash
 XMR:Monero
-ETC:Ethereum Classic
+ETC:Ethereum-Classic
 XEM:NEM
 TRX:TRON
 VEN:VeChain
 USDT:Tether
 LSK:Lisk
-BTG:Bitcoin Gold
+BTG:Bitcoin-Gold
 QTUM:Qtum
 OMG:OmiseGO
 NANO:Nano
 ICX:ICON
 ZEC:Zcash
-BNB:Binance Coin
+BNB:Binance-Coin
 STEEM:Steem
 XVG:Verge
 BCN:Bytecoin
 PPT:Populous
-DGD:DigixDAO
 STRAT:Stratis
 DOGE:Dogecoin
+DGD:DigixDAO
 SC:Siacoin
 RHOC:RChain
 WAVES:Waves
@@ -39,1481 +39,1481 @@ BTS:BitShares
 WTC:Waltonchain
 AE:Aeternity
 DCR:Decred
-REP:Augur
 ZRX:0x
+REP:Augur
 ETN:Electroneum
 VERI:Veritaseum
-HSR:Hshare
-KMD:Komodo
-R:Revain
-ARDR:Ardor
 ZCL:ZClassic
-KCS:KuCoin Shares
+R:Revain
+HSR:Hshare
+ARDR:Ardor
+KMD:Komodo
+KCS:KuCoin-Shares
 LRC:Loopring
 ARK:Ark
 GAS:Gas
 ZIL:Zilliqa
-BAT:Basic Attention Token
-DRGN:Dragonchain
+BAT:Basic-Attention-Token
 BTM:Bytom
-MONA:MonaCoin
 DGB:DigiByte
+MONA:MonaCoin
+DRGN:Dragonchain
+RDD:ReddCoin
 ELF:aelf
 SYS:Syscoin
 POLY:Polymath
-RDD:ReddCoin
 DENT:Dent
-PIVX:PIVX
 QASH:QASH
-NAS:Nebulas
+PIVX:PIVX
 AION:Aion
-DCN:Dentacoin
-KNC:Kyber Network
+GBYTE:Byteball-Bytes
+NAS:Nebulas
+KNC:Kyber-Network
 GNT:Golem
-GBYTE:Byteball Bytes
 BTX:Bitcore
+DCN:Dentacoin
+ETHOS:Ethos
 SALT:SALT
 GXS:GXShares
-ETHOS:Ethos
 FCT:Factom
 IOST:IOStoken
 CNX:Cryptonex
 FUN:FunFair
 LINK:ChainLink
 XZC:ZCoin
-POWR:Power Ledger
-KIN:Kin
+POWR:Power-Ledger
 NXT:Nxt
 PLR:Pillar
 CND:Cindicator
+KIN:Kin
 PART:Particl
-REQ:Request Network
+REQ:Request-Network
 BNT:Bancor
 SMART:SmartCash
 ENG:Enigma
 NEBL:Neblio
 MAID:MaidSafeCoin
 VTC:Vertcoin
-RDN:Raiden Network Token
 PAY:TenX
-IGNIS:Ignis
-EMC:Emercoin
 QSP:Quantstamp
-BLOCK:Blocknet
-GAME:GameCredits
+RDN:Raiden-Network-Token
+IGNIS:Ignis
 AGI:SingularityNET
-WAX:WAX
+GAME:GameCredits
+BLOCK:Blocknet
+EMC:Emercoin
 GNO:Gnosis
+WAX:WAX
+RPX:Red-Pulse
 ICN:Iconomi
-XP:Experience Points
 XDN:DigitalNote
-ENJ:Enjin Coin
 POE:Po.et
+XP:Experience-Points
+ENJ:Enjin-Coin
 XPA:XPA
-BTCD:BitcoinDark
-SAN:Santiment Network Token
-RPX:Red Pulse
-UNITY:SuperNET
-CVC:Civic
+SAN:Santiment-Network-Token
 SKY:Skycoin
+BTCD:BitcoinDark
+UNITY:SuperNET
 STORJ:Storj
+CVC:Civic
 SUB:Substratum
+STORM:Storm
 BCO:BridgeCoin
 ZEN:ZenCash
-STORM:Storm
-MANA:Decentraland
 LEND:ETHLend
-VEE:BLOCKv
-NAV:NAV Coin
+MANA:Decentraland
 ADX:AdEx
 ACT:Achain
-NXS:Nexus
+NAV:NAV-Coin
+VEE:BLOCKv
 PRL:Oyster
+DTR:Dynamic-Trading-Rights
 TEL:Telcoin
-MED:MediBloc
+HPB:High-Performance-Blockchain
+NXS:Nexus
 DEW:DEW
-DTR:Dynamic Trading Rights
-HPB:High Performance Blockchain
-PPP:PayPie
-TNB:Time New Bank
 PURA:Pura
-MCO:Monaco
-ANT:Aragon
-ITC:IoT Chain
-MDS:MediShares
+MED:MediBloc
 SPHTX:SophiaTX
+ANT:Aragon
+TNB:Time-New-Bank
+MCO:Monaco
+MDS:MediShares
 UBQ:Ubiq
-VIBE:VIBE
-RLC:iExec RLC
+ITC:IoT-Chain
+PPP:PayPie
 UCASH:U.CASH
+RLC:iExec-RLC
 INK:Ink
 DTA:DATA
-XAS:Asch
+WINGS:Wings
 BLZ:Bluzelle
-BIX:Bibox Token
-GVT:Genesis Vision
-C20:CRYPTO20
+VIBE:VIBE
+BIX:Bibox-Token
+XAS:Asch
+GVT:Genesis-Vision
 MTL:Metal
-DBC:DeepBrain Chain
-PPC:Peercoin
-SNM:SONM
-THETA:Theta Token
-AST:AirSwap
 PAC:PACcoin
+C20:CRYPTO20
+SNM:SONM
+PPC:Peercoin
 WGR:Wagerr
+THETA:Theta-Token
 AMB:Ambrosus
-MNX:MinexCoin
+DBC:DeepBrain-Chain
 APPC:AppCoins
-OST:Simple Token
-SRN:SIRIN LABS Token
+OST:Simple-Token
+AST:AirSwap
+SRN:SIRIN-LABS-Token
 CMT:CyberMiles
+RCN:Ripio-Credit-Network
 EDO:Eidoo
-RCN:Ripio Credit Network
-EMC2:Einsteinium
-XBY:XTRABYTES
-JNT:Jibrel Network
-INS:INS Ecosystem
 WABI:WaBi
+EMC2:Einsteinium
+JNT:Jibrel-Network
+EDG:Edgeless
+INS:INS-Ecosystem
+MNX:MinexCoin
+XBY:XTRABYTES
+WPR:WePower
 MLN:Melon
 FUEL:Etherparty
-EDG:Edgeless
 VIA:Viacoin
-WPR:WePower
-DATA:Streamr DATAcoin
-WINGS:Wings
-GTO:Gifto
-BAY:BitBay
-SNGLS:SingularDTV
-XCP:Counterparty
-QRL:Quantum Resistant Ledger
-UTK:UTRUST
-NLG:Gulden
-NGC:NAGA
-ETP:Metaverse ETP
-BITB:Bean Cash
-NULS:Nuls
-BRD:Bread
-CDT:CoinDash
 HTML:HTMLCOIN
+GTO:Gifto
+SNGLS:SingularDTV
+DATA:Streamr-DATAcoin
+BAY:BitBay
+XCP:Counterparty
+QRL:Quantum-Resistant-Ledger
+ETP:Metaverse-ETP
+UTK:UTRUST
+NGC:NAGA
+NULS:Nuls
+CDT:CoinDash
 BURST:Burst
+BRD:Bread
+NLG:Gulden
+BITB:Bean-Cash
+MGO:MobileGo
 LUN:Lunyr
 TNT:Tierion
-MGO:MobileGo
-COB:Cobinhood
 TRIG:Triggers
 BTO:Bottos
-TNC:Trinity Network Credit
-MTN:Medicalchain
+COB:Cobinhood
+TNC:Trinity-Network-Credit
+LBC:LBRY-Credits
 TAAS:TaaS
-DPY:Delphy
-LBC:LBRY Credits
 AEON:Aeon
+MTN:Medicalchain
+DPY:Delphy
 CTR:Centra
-QLC:QLINK
 MOD:Modum
-HVN:Hive Project
+HVN:Hive-Project
 CLOAK:CloakCoin
+ECC:ECC
 DNT:district0x
 SPANK:SpankChain
 ION:ION
-ECC:ECC
+QLC:QLINK
 IDH:indaHash
 NET:Nimiq
-GRS:Groestlcoin
 RISE:Rise
-PEPECASH:Pepe Cash
-AGRS:Agoras Tokens
-TRAC:OriginTrail
-COSS:COSS
-UKG:Unikoin Gold
-CRW:Crown
 ATM:ATMChain
-PRE:Presearch
-FTC:Feathercoin
-SBD:Steem Dollars
-STK:STK
-LKK:Lykke
-SAFEX:Safe Exchange Coin
-MER:Mercury
-SOC:All Sports
-BITCNY:bitCNY
-CAPP:Cappasity
-SLS:SaluS
-DMD:Diamond
-INT:Internet Node Token
-DIME:Dimecoin
-NMC:Namecoin
-VIB:Viberate
+GRS:Groestlcoin
+COSS:COSS
 ONION:DeepOnion
+UKG:Unikoin-Gold
+AGRS:Agoras-Tokens
+CRW:Crown
+PEPECASH:Pepe-Cash
+FTC:Feathercoin
+STK:STK
+SOC:All-Sports
+TRAC:OriginTrail
+SBD:Steem-Dollars
+SXDT:Spectre.ai-Dividend-Token
+LKK:Lykke
+SAFEX:Safe-Exchange-Coin
+PRE:Presearch
+SLS:SaluS
+MER:Mercury
+DMD:Diamond
+BITCNY:bitCNY
+NMC:Namecoin
+CAPP:Cappasity
+INT:Internet-Node-Token
+VIB:Viberate
+BCPT:BlockMason-Credit-Protocol
+EVX:Everex
+DIME:Dimecoin
+ADT:adToken
 DCT:DECENT
 TKN:TokenCard
-SXDT:Spectre.ai Dividend Token
-ADT:adToken
 DAT:Datum
-HST:Decision Token
-EVX:Everex
-BCPT:BlockMason Credit Protocol
-POT:PotCoin
+OCN:Odyssey
 TSL:Energo
+HST:Decision-Token
+POT:PotCoin
+YOYOW:YOYOW
 SIB:SIBCoin
 COLX:ColossusCoinXT
-XWC:WhiteCoin
-OCN:Odyssey
 HMQ:Humaniq
-ZSC:Zeusshield
-QBT:Qbao
-MTH:Monetha
 ZPT:Zeepin
+ZSC:Zeusshield
 SHIFT:Shift
-MOON:Mooncoin
-SWFTC:SwftCoin
-DLT:Agrello
+MTH:Monetha
+XWC:WhiteCoin
 FLASH:Flash
 TAU:Lamden
+DLT:Agrello
 THC:HempCoin
+SWFTC:SwftCoin
+QBT:Qbao
+ARN:Aeron
 GRID:Grid+
-YOYOW:YOYOW
-SWM:Swarm
-ECA:Electra
 KEY:Selfkey
 MINT:Mintcoin
+ECA:Electra
 BCC:BitConnect
 UNO:Unobtanium
+SWM:Swarm
+MOON:Mooncoin
 CFI:Cofound.it
-DADI:DADI
-IOC:I/O Coin
-LEO:LEOcoin
-SOAR:Soarcoin
-ARN:Aeron
-QUN:QunQun
-BPT:Blockport
-BLT:Bloom
-POSW:PoSW Coin
-XSPEC:Spectrecoin
-LA:LATOKEN
 CV:carVertical
-GTC:Game.com
-TRST:WeTrust
+IOC:I/O-Coin
+XSPEC:Spectrecoin
+LEO:LEOcoin
+QUN:QunQun
 1ST:FirstBlood
-BLK:BlackCoin
-NLC2:NoLimitCoin
-PASC:Pascal Coin
+BPT:Blockport
+TRST:WeTrust
 VOX:Voxels
-COV:Covesting
-XEL:Elastic
+GTC:Game.com
+LA:LATOKEN
+POSW:PoSW-Coin
+BLT:Bloom
+SOAR:Soarcoin
+PASC:Pascal-Coin
 NMR:Numeraire
-TIO:Trade Token
-MDA:Moeda Loyalty Points
-TIX:Blocktix
+DADI:DADI
+BLK:BlackCoin
 PRO:Propy
-XSH:SHIELD
-UQC:Uquid Coin
-GRC:GridCoin
+TIO:Trade-Token
+TIX:Blocktix
+COV:Covesting
+MDA:Moeda-Loyalty-Points
+XEL:Elastic
 CAN:CanYaCoin
-MOT:Olympus Labs
+MOT:Olympus-Labs
+UQC:Uquid-Coin
+XSH:SHIELD
+GRC:GridCoin
 SNC:SunContract
-DRT:DomRaider
 MSP:Mothership
 BDG:BitDegree
+NLC2:NoLimitCoin
+CAT:BitClave
 WRC:Worldcore
 FAIR:FairCoin
-AURA:Aurora DAO
 AMP:Synereo
-CAT:BitClave
-WCT:Waves Community Token
-RADS:Radium
-HAC:Hackspace Capital
-NYC:NewYorkCoin
-OTN:Open Trading Network
-RVT:Rivetz
+AURA:Aurora-DAO
 IPL:InsurePal
+WCT:Waves-Community-Token
+RVT:Rivetz
+OTN:Open-Trading-Network
 GUP:Matchpool
-ORME:Ormeus Coin
-ECN:E-coin
-BOT:Bodhi
-OMNI:Omni
+NYC:NewYorkCoin
+HAC:Hackspace-Capital
 IXT:iXledger
+OMNI:Omni
+RADS:Radium
+EXP:Expanse
 SNOV:Snovio
 VRC:VeriCoin
-EXP:Expanse
+BOT:Bodhi
+ORME:Ormeus-Coin
 PHR:Phore
-DAI:Dai
-MYB:MyBit Token
+DRT:DomRaider
+ECN:E-coin
+MYB:MyBit-Token
 XMY:Myriad
-STX:Stox
-SLR:SolarCoin
-PRG:Paragon
-GOLOS:Golos
-HOT:Hydro Protocol
-ENRG:Energycoin
+EDR:E-Dinar-Coin
+DAI:Dai
 BIS:Bismuth
-EDR:E-Dinar Coin
-PRA:ProChain
-UNIT:Universal Currency
+GOLOS:Golos
+SLR:SolarCoin
+HOT:Hydro-Protocol
 OAX:OAX
+STX:Stox
+PRG:Paragon
+ENRG:Energycoin
 NEU:Neumark
+RBY:Rubycoin
+PRA:ProChain
+UNIT:Universal-Currency
+BBR:Boolberry
+OK:OKCash
 HDG:Hedge
 AXP:aXpire
-RBY:Rubycoin
-OK:OKCash
 KICK:KickCoin
-QAU:Quantum
-MUE:MonetaryUnit
-BBR:Boolberry
 PST:Primas
 DBET:DecentBet
-CLAM:Clams
-KRM:Karma
-BMC:Blackmoon
+MUE:MonetaryUnit
+QAU:Quantum
 ZOI:Zoin
 ATB:ATBCoin
-BSD:BitSend
-LMC:LoMoCoin
+CLAM:Clams
 GBX:GoByte
-BITUSD:bitUSD
-PARETO:Pareto Network
+BSD:BitSend
+BMC:Blackmoon
+KRM:Karma
+LMC:LoMoCoin
+HGT:HelloGold
 OCT:OracleChain
-GAM:Gambit
-DNA:EncrypGen
-PZM:PRIZM
+BITUSD:bitUSD
 HORSE:Ethorse
+GAM:Gambit
+HBT:Hubii-Network
 CXO:CargoX
-HKN:Hacken
 CSNO:BitDice
+DNA:EncrypGen
+PARETO:Pareto-Network
 ALIS:ALIS
 NVST:NVO
+HKN:Hacken
+PZM:PRIZM
 AUR:Auroracoin
-TIPS:FedoraCoin
-LINDA:Linda
+PND:Pandacoin
 TOA:ToaCoin
-HBT:Hubii Network
-DTB:Databits
-XPM:Primecoin
-OXY:Oxycoin
 MEE:CoinMeet
+SPF:SportyCo
 AIR:AirToken
+XPM:Primecoin
+NTRN:Neutron
 DICE:Etheroll
-SWT:Swarm City
-RNT:OneRoot Network
-NEOS:NeosCoin
 SYNX:Syndicate
+DTB:Databits
 TIME:Chronobank
 ICOS:ICOS
+SWT:Swarm-City
 LOC:LockChain
 FLDC:FoldingCoin
-FLO:FlorinCoin
-HGT:HelloGold
-NTRN:Neutron
+RNT:OneRoot-Network
 XAUR:Xaurum
-PLBT:Polybius
-LUX:LUXCoin
-DBIX:DubaiCoin
+NEOS:NeosCoin
+FLO:FlorinCoin
 VOISE:Voise
-SPF:SportyCo
-RMC:Russian Miner Coin
-BNTY:Bounty0x
-XLR:Solaris
-USNBT:NuBits
+OXY:Oxycoin
+DBIX:DubaiCoin
+PLBT:Polybius
+XUC:Exchange-Union
+RMC:Russian-Miner-Coin
+PLU:Pluton
+LINDA:Linda
+LOCI:LOCIcoin
+MYST:Mysterium
 PTOY:Patientory
 BQ:bitqy
-XUC:Exchange Union
-IFT:InvestFeed
-MYST:Mysterium
-RMT:SureRemit
 BLUE:BLUE
-KLC:KiloCoin
+AIT:AICHAIN
+LUX:LUXCoin
 POLL:ClearPoll
-PND:Pandacoin
 NXC:Nexium
 EBTC:eBitcoin
-LOCI:LOCIcoin
-COVAL:Circuits of Value
 XRL:Rialto
-GCR:Global Currency Reserve
+GCR:Global-Currency-Reserve
+BNTY:Bounty0x
+COVAL:Circuits-of-Value
 LIFE:LIFE
+IFT:InvestFeed
+RMT:SureRemit
 ESP:Espers
-PFR:Payfair
 ELIX:Elixir
-DIVX:Divi
-ZLA:Zilla
-EMV:Ethereum Movie Venture
-AIT:AICHAIN
-INCNT:Incent
+TIPS:FedoraCoin
+PFR:Payfair
 MUSIC:Musicoin
+ZLA:Zilla
+XLR:Solaris
+USNBT:NuBits
+DIVX:Divi
+AVT:Aventus
 XTO:Tao
 PKT:Playkey
-CAT:BlockCAT
-AVT:Aventus
-LCT:LendConnect
-CURE:Curecoin
-DYN:Dynamic
-TCC:The ChampCoin
-EVR:Everus
-PUT:Profile Utility Token
-BCY:Bitcrystals
-ING:Iungo
-PINK:PinkCoin
-B2B:B2BX
-OBITS:OBITS
-LEV:Leverj
 NIO:Autonio
-PLAY:HEROcoin
-ALQO:ALQO
-IOP:Internet of People
-SXUT:Spectre.ai Utility Token
-VIU:Viuly
-STAR:Starbase
+DYN:Dynamic
 RIC:Riecoin
+CAT:BlockCAT
+INCNT:Incent
+TCC:The-ChampCoin
+CURE:Curecoin
+KLC:KiloCoin
+EVR:Everus
+PUT:Profile-Utility-Token
+PLAY:HEROcoin
+PINK:PinkCoin
+LCT:LendConnect
+BCY:Bitcrystals
+IOP:Internet-of-People
+ING:Iungo
+EMV:Ethereum-Movie-Venture
+LEV:Leverj
+OBITS:OBITS
+STAR:Starbase
 BTCZ:BitcoinZ
+B2B:B2BX
+VIU:Viuly
+ALQO:ALQO
 XMCC:Monoeci
 HEAT:HEAT
 ABY:ArtByte
-GET:GET Protocol
+SXUT:Spectre.ai-Utility-Token
+ATMS:Atmos
+SNRG:Synergy
+GET:GET-Protocol
 FLIXX:Flixxo
 GAT:Gatcoin
-SEQ:Sequence
-XST:Stealthcoin
-CAG:Change
-ARY:Block Array
-NVC:Novacoin
-ATMS:Atmos
-SPHR:Sphere
-INXT:Internxt
-ERO:Eroscoin
 CVCOIN:CVCoin
-PIRL:Pirl
 AID:AidCoin
+SPHR:Sphere
+PIRL:Pirl
+SEQ:Sequence
+NVC:Novacoin
+CAG:Change
+ARY:Block-Array
+ERO:Eroscoin
+SSS:Sharechain
+XNN:Xenon
+RC:RussiaCoin
+DRP:DCORP
+1337:Elite
 EAC:EarthCoin
 XVC:Vcash
-RC:RussiaCoin
-SPRTS:Sprouts
-DOPE:DopeCoin
-PIX:Lampix
-DRP:DCORP
-DOVU:Dovu
+XST:Stealthcoin
 SUMO:Sumokoin
-HYP:HyperStake
-SSS:Sharechain
-BWK:Bulwark
-AIX:Aigang
-MEME:Memetic / PepeCoin
-REBL:Rebellious
-POLIS:Polis
-BON:Bonpay
-TRF:Travelflex
-1337:Elite
+DOVU:Dovu
 VTR:vTorrent
-CHIPS:CHIPS
-QWARK:Qwark
+AIX:Aigang
+BON:Bonpay
+HYP:HyperStake
 FLIK:FLiK
-BET:DAO.Casino
-BUN:BunnyCoin
-TIE:TIES Network
-XBC:Bitcoin Plus
-JC:Jesus Coin
+PIX:Lampix
+MEME:Memetic-/-PepeCoin
+DOPE:DopeCoin
+BWK:Bulwark
+REBL:Rebellious
+SPRTS:Sprouts
+TRF:Travelflex
+POLIS:Polis
+TIE:TIES-Network
 ADB:adbank
+QWARK:Qwark
+XBC:Bitcoin-Plus
+BET:DAO.Casino
 ADST:AdShares
-ZEIT:Zeitcoin
-DOT:Dotcoin
-ERC:EuropeCoin
-PBL:Publica
+EVC:EventChain
 GLD:GoldCoin
-UFO:Uniform Fiscal Object
+DOT:Dotcoin
+CHIPS:CHIPS
+UFO:Uniform-Fiscal-Object
 SCL:Social
-GCN:GCN Coin
+ERC:EuropeCoin
 HUSH:Hush
-BELA:Bela
 DNR:Denarius
-CRED:Verify
-CPAY:Cryptopay
-INN:Innova
+NSR:NuShares
 ODN:Obsidian
-PTC:Pesetacoin
-REC:Regalcoin
+BELA:Bela
+INN:Innova
+APX:APX
+MTNC:Masternodecoin
+INXT:Internxt
 EVE:Devery
 DGPT:DigiPulse
-NSR:NuShares
-BRX:Breakout Stake
 ZRC:ZrCoin
-TRCT:Tracto
-SNRG:Synergy
-TFL:TrueFlip
+PBL:Publica
+BRX:Breakout-Stake
+PTC:Pesetacoin
+BUN:BunnyCoin
+REC:Regalcoin
 REAL:REAL
 ONG:onG.social
-ATL:ATLANT
-MTNC:Masternodecoin
-PBT:Primalbase Token
-BTDX:Bitcloud
-BTM:Bitmark
-TX:TransferCoin
+PBT:Primalbase-Token
 VSX:Vsync
+MONK:Monkey-Project
+TFL:TrueFlip
+GCN:GCN-Coin
+ATL:ATLANT
+CPAY:Cryptopay
 2GIVE:2GIVE
-MONK:Monkey Project
-HWC:HollyWoodCoin
-DFT:DraftCoin
+TX:TransferCoin
+BTM:Bitmark
 KORE:Kore
-ZNY:Bitzeny
+JC:Jesus-Coin
+BTDX:Bitcloud
+TRCT:Tracto
+CRED:Verify
 TKS:Tokes
-STA:Starta
-APX:APX
 VRM:VeriumReserve
-CRB:Creditbit
-ADC:AudioCoin
-BLITZ:Blitzcash
 FRD:Farad
-WILD:Wild Crypto
+WILD:Wild-Crypto
+BLITZ:Blitzcash
+CRB:Creditbit
 EXCL:ExclusiveCoin
-MNTP:GoldMint
+ADC:AudioCoin
 OPT:Opus
-WISH:MyWish
-BPL:Blockpool
+ZNY:Bitzeny
+STA:Starta
 KRB:Karbo
+BPL:Blockpool
 UFR:Upfiring
-BUZZ:BuzzCoin
-AMM:MicroMoney
-MCAP:MCAP
 BRK:Breakout
+DFT:DraftCoin
+BUZZ:BuzzCoin
+MNTP:GoldMint
+AMM:MicroMoney
 NKA:IncaKoin
+MCAP:MCAP
+AI:POLY-AI
 CANN:CannabisCoin
-AI:POLY AI
+HOLD:Interstellar-Holdings
 TZC:TrezarCoin
+WISH:MyWish
+HUC:HunterCoin
 HAT:Hawala.Today
 CREA:Creativecoin
-SEND:Social Send
 SXC:Sexcoin
-HUC:HunterCoin
 ALT:Altcoin
-PDC:Project Decorum
-MZC:MAZA
-HOLD:Interstellar Holdings
-CL:Coinlancer
 IC:Ignition
+GRE:Greencoin
+SEND:Social-Send
+MZC:MAZA
+CL:Coinlancer
 BDL:Bitdeal
-TRC:Terracoin
-FOR:FORCE
-FYP:FlypMe
 XGOX:XGOX
-SMS:Speed Mining Service
+PRIX:Privatix
+TRC:Terracoin
+HWC:HollyWoodCoin
 ZER:Zero
+SMS:Speed-Mining-Service
+PDC:Project-Decorum
 EGC:EverGreenCoin
-MAG:Magnet
-SPR:SpreadCoin
-CMPCO:CampusCoin
-PUT:PutinCoin
-IND:Indorse Token
-START:Startcoin
-TRUST:TrustPlus
-QVT:Qvolta
-RUP:Rupee
-PYLNT:Pylon Network
 CHC:ChainCoin
-SWIFT:Bitswift
-ITNS:IntenseCoin
+MAG:Magnet
+FYP:FlypMe
+SPR:SpreadCoin
+START:Startcoin
 NOTE:DNotes
-UNY:Unity Ingot
+CMPCO:CampusCoin
+IND:Indorse-Token
+UNY:Unity-Ingot
+RUP:Rupee
+PYLNT:Pylon-Network
 HXX:Hexx
-IXC:Ixcoin
-EBST:eBoost
-RAIN:Condensate
-PROC:ProCurrency
-STU:bitJob
-SLT:Smartlands
+TRUST:TrustPlus
 QRK:Quark
+SWIFT:Bitswift
+PUT:PutinCoin
+FOR:FORCE
+IXC:Ixcoin
+TES:TeslaCoin
+RAIN:Condensate
+ZEIT:Zeitcoin
+QVT:Qvolta
+STU:bitJob
 EFL:e-Gulden
+ITNS:IntenseCoin
+EBST:eBoost
+CRC:CrowdCoin
+PROC:ProCurrency
 ETBS:Ethbits
+SLT:Smartlands
 PURE:Pure
 PKB:ParkByte
-GRE:Greencoin
+WTT:Giga-Watt-Token
 ZEPH:Zephyr
-WTT:Giga Watt Token
-CARBON:Carboncoin
-CRC:CrowdCoin
+PING:CryptoPing
 ADZ:Adzcoin
 YOC:Yocoin
-PING:CryptoPing
-XMG:Magi
-ELLA:Ellaism
-DCY:Dinastycoin
-TES:TeslaCoin
-LDOGE:LiteDoge
-CBX:Crypto Bullion
-GCC:TheGCCcoin
-OCL:Oceanlab
-MBRS:Embers
+ERC20:ERC20
 VIVO:VIVO
+ELLA:Ellaism
+LDOGE:LiteDoge
+XMG:Magi
+CBX:Crypto-Bullion
+MRJA:GanjaCoin
+FUCK:FuckToken
+DCY:Dinastycoin
+GCC:TheGCCcoin
+MBRS:Embers
+OCL:Oceanlab
 SMLY:SmileyCoin
 STAK:STRAKS
-PLC:PlusCoin
 ELTCOIN:ELTCOIN
 DP:DigitalPrice
 V:Version
+PLC:PlusCoin
 CRM:Cream
-NDC:NEVERDIE
 UNIFY:Unify
+42:42-coin
 ARC:ArcticCoin
 XCPO:Copico
-FUCK:FuckToken
-ACC:Accelerator Network
-MRJA:GanjaCoin
-CDN:Canada eCoin
+CDN:Canada-eCoin
 PHO:Photon
-NOBL:NobleCoin
-42:42-coin
-POP:PopularCoin
-MOIN:Moin
 XLC:LeviarCoin
-LINX:Linx
+NOBL:NobleCoin
 SKIN:SkinCoin
-MAX:MaxCoin
-MRT:Miners' Reward Token
+MOIN:Moin
+XFT:Footy-Cash
+MRT:Miners'-Reward-Token
+LINX:Linx
 FST:Fastcoin
-CDX:Commodity Ad Network
 MAC:Machinecoin
 AU:AurumCoin
-UNI:Universe
-BTA:Bata
-BTCS:Bitcoin Scrypt
-KEK:KekCoin
-GRWI:Growers International
-XFT:Footy Cash
-RUPX:Rupaya
-UIS:Unitus
 FJC:FujiCoin
-ECASH:Ethereum Cash
-XPD:PetroDollar
+MAX:MaxCoin
+GRWI:Growers-International
 RNS:Renos
+UNI:Universe
+BTCS:Bitcoin-Scrypt
+KEK:KekCoin
+SKC:Skeincoin
 INSN:InsaneCoin
+ECASH:Ethereum-Cash
+BTA:Bata
+XPD:PetroDollar
 I0C:I0Coin
+POP:PopularCoin
+OPC:OP-Coin
+ZENI:Zennies
+CDX:Commodity-Ad-Network
+UIS:Unitus
 FRST:FirstCoin
-ITT:Intelligent Trading Tech
+ITT:Intelligent-Trading-Tech
 WDC:WorldCoin
 BYC:Bytecent
-ZENI:Zennies
+BXT:BitTokens
 UNB:UnbreakableCoin
+ACC:Accelerator-Network
 ABJ:Abjcoin
-LGD:Legends Room
-BPC:Bitpark Coin
-OPC:OP Coin
-MEC:Megacoin
+LGD:Legends-Room
+BPC:Bitpark-Coin
 ZET:Zetacoin
+FCN:Fantomcoin
+ERA:ERA
 JET:Jetcoin
 EPY:Emphy
-BRO:Bitradio
+MEC:Megacoin
 XCN:Cryptonite
 NET:NetCoin
-ERA:ERA
-ARI:Aricoin
+RUPX:Rupaya
+BRO:Bitradio
 SUR:Suretly
 BBP:BiblePay
-ATS:Authorship
 PIGGY:Piggycoin
+ARI:Aricoin
+ARCT:ArbitrageCT
 EBET:EthBet
-CJ:Cryptojacks
+ATS:Authorship
 LOG:Woodcoin
 ITI:iTicoin
-ARCT:ArbitrageCT
-KBR:Kubera Coin
+KBR:Kubera-Coin
 HODL:HOdlcoin
+DGC:Digitalcoin
 ACE:Ace
 RLT:RouletteToken
 XPTX:PlatinumBAR
-WAND:WandX
-DGC:Digitalcoin
-CCRB:CryptoCarbon
-KLN:Kolion
 GUN:Guncoin
+CCRB:CryptoCarbon
+WAND:WandX
 BTB:BitBar
-TTC:TittieCoin
-EL:Elcoin
+KLN:Kolion
+CJ:Cryptojacks
 SMC:SmartCoin
+EL:Elcoin
 ELE:Elementrem
 UNIC:UniCoin
 HPC:Happycoin
-LANA:LanaCoin
 BRIT:BritCoin
-ERC20:ERC20
-HBC:HomeBlockCoin
-PIPL:PiplCoin
-KOBO:Kobocoin
-TRI:Triangles
-DEM:Deutsche eMark
-NETKO:Netko
-EQL:Equal
-TRUMP:TrumpCoin
-VISIO:Visio
-GRLC:Garlicoin
-DFS:DFSCoin
-ETG:Ethereum Gold
-CTX:CarTaxi Token
-CPC:Capricoin
-Q2C:QubitCoin
-HERO:Sovereign Hero
-EBCH:eBitcoinCash
 ARG:Argentum
+VISIO:Visio
+PIPL:PiplCoin
+TRI:Triangles
+KOBO:Kobocoin
+EQL:Equal
+HBC:HomeBlockCoin
+LANA:LanaCoin
+TTC:TittieCoin
+TRUMP:TrumpCoin
 CFT:CryptoForecast
-RKC:Royal Kingdom Coin
+DFS:DFSCoin
+DEM:Deutsche-eMark
+CTX:CarTaxi-Token
 GRIM:Grimcoin
-TIT:Titcoin
-BTCRED:Bitcoin Red
-RBT:Rimbit
-OPAL:Opal
-XBL:Billionaire Token
-FC2:FuelCoin
+Q2C:QubitCoin
+CV2:Colossuscoin-V2
+CPC:Capricoin
+RKC:Royal-Kingdom-Coin
+NETKO:Netko
+GRLC:Garlicoin
+XBL:Billionaire-Token
+ETG:Ethereum-Gold
+HERO:Sovereign-Hero
 HAL:Halcyon
+SCORE:Scorecoin
+OPAL:Opal
+BTCRED:Bitcoin-Red
+FC2:FuelCoin
 CNT:Centurion
-DRXNE:DROXNE
-MNE:Minereum
-UTC:UltraCoin
-808:808Coin
 SCT:Soma
+QBC:Quebecoin
+808:808Coin
+MNE:Minereum
+DRXNE:DROXNE
+UTC:UltraCoin
+RBT:Rimbit
+AMS:AmsterdamCoin
 OTX:Octanox
 ENT:Eternity
-PAK:Pakcoin
+EBCH:eBitcoinCash
 BLC:Blakecoin
-BLOCKPAY:BlockPay
-CV2:Colossuscoin V2
-SRC:SecureCoin
+CFD:Confido
+CUBE:DigiCube
 BUCKS:SwagBucks
-XHI:HiCoin
-IETH:iEthereum
-PXC:Phoenixcoin
-TOKC:TOKYO
-XJO:Joulecoin
-STN:Steneum Coin
-MANNA:Manna
-PCOIN:Pioneer Coin
-MOJO:MojoCoin
-DSR:Desire
-GB:GoldBlocks
-AMS:AmsterdamCoin
-KURT:Kurrent
-TRK:Truckcoin
-TGC:Tigercoin
-XCXT:CoinonatX
-MOTO:Motocoin
-ACC:AdCoin
-8BIT:8Bit
-KAYI:Kayicoin
-WHL:WhaleCoin
-TEK:TEKcoin
-SLG:Sterlingcoin
-BTG:Bitgem
-BOLI:Bolivarcoin
-GLT:GlobalToken
-CHAN:ChanCoin
+PAK:Pakcoin
+BLOCKPAY:BlockPay
 WGO:WavesGo
+DSR:Desire
+PXC:Phoenixcoin
+STN:Steneum-Coin
+IETH:iEthereum
+BTG:Bitgem
+PCOIN:Pioneer-Coin
+XJO:Joulecoin
+XHI:HiCoin
+MANNA:Manna
+SRC:SecureCoin
+WHL:WhaleCoin
+TOKC:TOKYO
+MOJO:MojoCoin
+GB:GoldBlocks
 DDF:DigitalDevelopersFund
+TGC:Tigercoin
+KURT:Kurrent
+SLG:Sterlingcoin
+8BIT:8Bit
+TRK:Truckcoin
+GLT:GlobalToken
 DAXX:DaxxCoin
-SWING:Swing
-BITSILVER:bitSilver
-LTB:LiteBar
-RED:RedCoin
-CRX:Chronos
-SDRN:Senderon
-EVIL:Evil Coin
-STV:Sativacoin
-POST:PostCoin
-LEA:LeaCoin
-ZZC:ZoZoCoin
-INFX:Influxcoin
-LCP:Litecoin Plus
-ZCG:Zlancer
-MARS:Marscoin
-CCT:Crystal Clear 
-ROOFS:Roofs
-DIBC:DIBCOIN
-ETHD:Ethereum Dark
-SGR:Sugar Exchange
-ONX:Onix
-XRA:Ratecoin
-DSH:Dashcoin
-NTO:Fujinto
-JIN:Jin Coin
+KAYI:Kayicoin
 NEWB:Newbium
-PXI:Prime-XI
-POS:PoSToken
-PASL:Pascal Lite
-BTPL:Bitcoin Planet
-VOT:VoteCoin
-RBIES:Rubies
-PHS:Philosopher Stones
-CCN:CannaCoin
-KUSH:KushCoin
+BOLI:Bolivarcoin
+MOTO:Motocoin
+XCXT:CoinonatX
+TIT:Titcoin
+CRX:Chronos
+ACC:AdCoin
+PASL:Pascal-Lite
+CHAN:ChanCoin
 MCRN:MACRON
+SWING:Swing
+MNM:Mineum
+LTB:LiteBar
+BITSILVER:bitSilver
+RED:RedCoin
+POST:PostCoin
+SGR:Sugar-Exchange
+EVIL:Evil-Coin
+LCP:Litecoin-Plus
+SDRN:Senderon
+STV:Sativacoin
+INFX:Influxcoin
+XRA:Ratecoin
+MARS:Marscoin
+DIBC:DIBCOIN
+BERN:BERNcash
+POS:PoSToken
+ZZC:ZoZoCoin
+MNC:Mincoin
+CCT:Crystal-Clear-
+LEA:LeaCoin
+ETHD:Ethereum-Dark
+NTO:Fujinto
+ZCG:Zlancer
 SPACE:SpaceCoin
+BTPL:Bitcoin-Planet
+ONX:Onix
+EMD:Emerald-Crypto
+PHS:Philosopher-Stones
+ROOFS:Roofs
+CCN:CannaCoin
+DSH:Dashcoin
+XCT:C-Bit
+KUSH:KushCoin
+CMT:Comet
+VOT:VoteCoin
+ATOM:Atomic-Coin
 QCN:QuazarCoin
-611:SixEleven
 HONEY:Honey
-EMD:Emerald Crypto
-ATOM:Atomic Coin
+611:SixEleven
+MDC:Madcoin
+AIB:Advanced-Internet-Blocks
 DUO:ParallelCoin
-AIB:Advanced Internet Blocks
-XIOS:Xios
 SAGA:SagaCoin
-CAT:Catcoin
-EOT:EOT Token
-NUKO:Nekonium
-LBTC:LiteBitcoin
-REE:ReeCoin
-COAL:BitCoal
-QBIC:Qbic
 BSTY:GlobalBoost-Y
-ECO:EcoCoin
-XBTS:Beatcoin
-TRDT:Trident Group
-YTN:YENTEN
+SHDW:Shadow-Token
+BCF:Bitcoin-Fast
+EOT:EOT-Token
+CAT:Catcoin
+QBIC:Qbic
+JIN:Jin-Coin
+COAL:BitCoal
+LBTC:LiteBitcoin
 RPC:RonPaulCoin
-ASAFE2:AllSafe
 ICOB:ICOBID
+XBTS:Beatcoin
 TAJ:TajCoin
-GTC:Global Tour Coin
-GLS:GlassCoin
+REE:ReeCoin
+CON:PayCon
+GTC:Global-Tour-Coin
+ADCN:Asiadigicoin
+ECO:EcoCoin
 FNC:FinCoin
 DALC:Dalecoin
-CON:PayCon
-MDC:Madcoin
+GLS:GlassCoin
 BIP:BipCoin
-IMX:Impact
-300:300 Token
-CMT:Comet
-SOIL:SOILcoin
+ALL:Allion
 CPN:CompuCoin
-XCRE:Creatio
+OFF:Cthulhu-Offerings
 ERY:Eryllium
 XCO:X-Coin
-QBC:Quebecoin
-LUNA:Luna Coin
-ALL:Allion
-OFF:Cthulhu Offerings
-ICE:iDice
+XCRE:Creatio
+LUNA:Luna-Coin
+SOIL:SOILcoin
+BNX:BnrtxCoin
+MAY:Theresa-May-Coin
 GP:GoldPieces
 XNG:Enigma
-SONG:SongCoin
 BOST:BoostCoin
-MAY:Theresa May Coin
-SLEVIN:Slevin
 CACH:CacheCoin
-BNX:BnrtxCoin
 $$$:Money
 HMP:HempCoin
-SFC:Solarflarecoin
-MSCN:Master Swiscoin
+SONG:SongCoin
+SLEVIN:Slevin
 CXT:Coinonat
-KRONE:Kronecoin
+SFC:Solarflarecoin
+MSCN:Master-Swiscoin
 ALTCOM:SONO
+KRONE:Kronecoin
 COXST:CoExistCoin
 BENJI:BenjiRolls
-LTCU:LiteCoin Ultra
+UET:Useless-Ethereum-Token
 PRX:Printerium
+PLACO:PlayerCoin
+LTCU:LiteCoin-Ultra
 VPRC:VapersCoin
 ICON:Iconic
-PLACO:PlayerCoin
 WOMEN:WomenCoin
-ACP:AnarchistsPrime
+PONZI:PonziCoin
 DRM:Dreamcoin
+ACP:AnarchistsPrime
 PLNC:PLNcoin
 GBC:GBCGoldCoin
-EXN:ExchangeN
 VOLT:Bitvolt
 VRS:Veros
 XRC:Rawcoin
 ARGUS:Argus
-SOCC:SocialCoin
 COUPE:Coupecoin
 CREVA:CrevaCoin
 ULA:Ulatech
-CTIC2:Coimatic 2.0
 NANOX:Project-X
-VLTC:Vault Coin
+CTIC2:Coimatic-2.0
+VLTC:Vault-Coin
 AERM:Aerium
 EXRN:EXRNchain
-PRC:PRCoin
 LVPS:LevoPlus
-TSTR:Tristar Coin
+PRC:PRCoin
 HMC:HarmonyCoin
+TSTR:Tristar-Coin
 ABN:Abncoin
-EBT:Ebittree Coin
-DMB:Digital Money Bits
+DMB:Digital-Money-Bits
+EBT:Ebittree-Coin
 ART:Maecenas
 PPY:Peerplays
-TGT:Target Coin
 CREDO:Credo
+TGT:Target-Coin
 ECOB:Ecobit
-PLU:Pluton
-PGL:Prospectors Gold
+PGL:Prospectors-Gold
 AC:AsiaCoin
 VTA:Virtacoin
-XNN:Xenon
 REX:REX
+ETT:EncryptoTel-[WAVES]
 BBT:BitBoost
-GJC:Global Jobcoin
-ETT:EncryptoTel [WAVES]
-EVC:EventChain
-PRIX:Privatix
+GJC:Global-Jobcoin
 MXT:MarteXcoin
 GOOD:Goodomy
-VSL:vSlice
 ANC:Anoncoin
+VSL:vSlice
 EFYT:Ergo
 BASH:LuckChain
 BLU:BlueCoin
+DAR:Darcrus
 EQT:EquiTrader
 YASH:YashCoin
-DAR:Darcrus
 MAGE:MagicCoin
-IFLT:InflationCoin
 FYN:FundYourselfNow
+IFLT:InflationCoin
+CARBON:Carboncoin
 DAY:Chronologic
-SKC:Skeincoin
-ICOO:ICO OpenLedger
+NDC:NEVERDIE
+ICOO:ICO-OpenLedger
 LEAF:LeafCoin
 FIMK:FIMKrypto
 SHORTY:Shorty
 FLT:FlutterCoin
-RIYA:Etheriya
 INPAY:InPay
-MBI:Monster Byte
+RIYA:Etheriya
+MBI:Monster-Byte
 SDC:ShadowCash
 ORB:Orbitcoin
-FCN:Fantomcoin
-STRC:StarCredits
 AHT:Bowhead
+STRC:StarCredits
 METAL:MetalCoin
 BITS:Bitstar
-LNK:Link Platform
-SCORE:Scorecoin
+LNK:Link-Platform
 RUSTBITS:Rustbits
-USC:Ultimate Secure Cash
 HTC:HitCoin
+USC:Ultimate-Secure-Cash
 GAIA:GAIA
 TROLL:Trollcoin
-BXT:BitTokens
 HBN:HoboNickels
-FLY:Flycoin
 NYAN:Nyancoin
+FLY:Flycoin
 BTWTY:Bit20
 VIDZ:PureVidz
 TALK:BTCtalkcoin
-TSE:Tattoocoin (Standard Edition)
+AMMO:Ammo-Reloaded
+TSE:Tattoocoin-(Standard-Edition)
 BLZ:BlazeCoin
-CUBE:DigiCube
-CFD:Confido
 BITZ:Bitz
 XPY:PayCoin
+SUPER:SuperCoin
 SIGT:Signatum
 TKR:CryptoInsight
-SUPER:SuperCoin
-PR:Prototanium
-AMMO:Ammo Reloaded
-B@:Bankcoin
-FUNC:FUNCoin
 VAL:Valorbit
-GAP:Gapcoin
 BTCR:Bitcurrency
-BITBTC:bitBTC
+B@:Bankcoin
+GAP:Gapcoin
 BIGUP:BigUp
+PR:Prototanium
+BITBTC:bitBTC
 ICN:iCoin
-XRE:RevolverCoin
 WAY:WayGuide
 XGR:GoldReserve
 ARCO:AquariusCoin
+TEK:TEKcoin
 CNO:Coin(O)
+XRE:RevolverCoin
 CHESS:ChessCoin
 GLC:GlobalCoin
-C2:Coin2.1
 888:OctoCoin
-BERN:BERNcash
-BRIA:BriaCoin
+C2:Coin2.1
 NEVA:NevaCoin
-MNM:Mineum
 J:Joincoin
-MNC:Mincoin
-FRC:Freicoin
-BCF:Bitcoin Fast
-XCT:C-Bit
-CASH:Cashcoin
+BRIA:BriaCoin
 PX:PX
-BITGOLD:bitGold
+PXI:Prime-XI
+RBIES:Rubies
+FRC:Freicoin
+FUNC:FUNCoin
+CASH:Cashcoin
 CTO:Crypto
 EUC:Eurocoin
+BITGOLD:bitGold
 HNC:Helleniccoin
-XVP:Virtacoinplus
-STARS:StarCash Network
-IMS:Independent Money System
+IMS:Independent-Money-System
 SOON:SoonCoin
+STARS:StarCash-Network
+XVP:Virtacoinplus
 VC:VirtualCoin
-UNITS:GameUnits
-KED:Darsek
+TAG:TagCoin
 CCO:Ccore
 AMBER:AmberCoin
-MAO:Mao Zedong
-SHDW:Shadow Token
-TAG:TagCoin
+MAO:Mao-Zedong
+KED:Darsek
+UNITS:GameUnits
+XIOS:Xios
 SPEX:SproutsExtreme
-CYP:Cypher
-MST:MustangCoin
 BUMBA:BumbaCoin
+MST:MustangCoin
+CYP:Cypher
 DTC:Datacoin
+ASAFE2:AllSafe
 SCRT:SecretCoin
+TRDT:Trident-Group
+YTN:YENTEN
 QTL:Quatloo
 DLC:Dollarcoin
 ZUR:Zurcoin
+NUKO:Nekonium
 ACOIN:Acoin
 SAC:SACoin
-ADCN:Asiadigicoin
-RMC:Remicoin
-ISL:IslaCoin
-DIX:Dix Asset
-EVO:Evotion
-DRS:Digital Rupees
-MAD:SatoshiMadness
-VLT:Veltor
 BRAT:BROTHER
+RMC:Remicoin
+EVO:Evotion
+ISL:IslaCoin
+DRS:Digital-Rupees
+DIX:Dix-Asset
+MAD:SatoshiMadness
+IMX:Impact
+VLT:Veltor
 CNNC:Cannation
-FLAX:Flaxscript
-VUC:Virta Unique Coin
-FUZZ:FuzzBalls
+300:300-Token
 NRO:Neuro
-YAC:Yacoin
-XBTC21:Bitcoin 21
-DBTC:Debitcoin
+VUC:Virta-Unique-Coin
+FUZZ:FuzzBalls
 EAGLE:EagleCoin
-RBX:Ripto Bux
-FRK:Franko
-MAR:Marijuanacoin
+FLAX:Flaxscript
+YAC:Yacoin
+DBTC:Debitcoin
 BXC:Bitcedi
-GPU:GPU Coin
-BITEUR:bitEUR
+RBX:Ripto-Bux
+FRK:Franko
+GPU:GPU-Coin
 SCS:Speedcash
-JS:JavaScript Token
-SPT:Spots
-FIRE:Firecoin
-BAS:BitAsean
+XBTC21:Bitcoin-21
+BITEUR:bitEUR
+MAR:Marijuanacoin
 ANTI:AntiBitcoin
+FIRE:Firecoin
 BTQ:BitQuark
+ICE:iDice
 GCC:GuccioneCoin
-GPL:Gold Pressed Latinum
-CF:Californium
+GPL:Gold-Pressed-Latinum
+SPT:Spots
 BLN:Bolenum
-VEC2:VectorAI
-WARP:WARP
-WORM:HealthyWormCoin
-VIP:VIP Tokens
-ATX:Artex Coin
+BAS:BitAsean
 LTCR:Litecred
-UET:Useless Ethereum Token
+CF:Californium
+JS:JavaScript-Token
+WARP:WARP
+ATX:Artex-Coin
+WORM:HealthyWormCoin
+VIP:VIP-Tokens
 BLRY:BillaryCoin
-MILO:MiloCoin
+VEC2:VectorAI
 JWL:Jewels
 URO:Uro
+MILO:MiloCoin
 EGO:EGO
-DLISK:DAPPSTER
 SOJ:Sojourn
-MTLMC3:Metal Music Coin
-PONZI:PonziCoin
-CESC:CryptoEscudo
 BRAIN:Braincoin
-SH:Shilling
-URC:Unrealcoin
-MND:MindCoin
-WBB:Wild Beast Block
-ARB:ARbit
+DLISK:DAPPSTER
 JOBS:JobsCoin
+MTLMC3:Metal-Music-Coin
+SH:Shilling
+MND:MindCoin
+WBB:Wild-Beast-Block
+ARB:ARbit
 BSTAR:Blackstar
+URC:Unrealcoin
 PEX:PosEx
 ZMC:ZetaMicron
 ORLY:Orlycoin
-PULSE:Pulse
+CESC:CryptoEscudo
 BOAT:BOAT
+PULSE:Pulse
 GEERT:GeertCoin
 ZYD:Zayedcoin
-TAGR:TAGRcoin
-CWXT:CryptoWorldX Token
+CWXT:CryptoWorldX-Token
 OS76:OsmiumCoin
-XOC:Xonecoin
-LIR:LetItRide
+TAGR:TAGRcoin
+PIE:PIECoin
+EXN:ExchangeN
 G3N:G3N
-RIDE:Ride My Car
+RIDE:Ride-My-Car
 STEPS:Steps
 DES:Destiny
-KNC:KingN Coin
-TYCHO:Tychocoin
-PIE:PIECoin
+KNC:KingN-Coin
+XOC:Xonecoin
+LIR:LetItRide
 BSC:BowsCoin
-HVCO:High Voltage
+HVCO:High-Voltage
 BIOS:BiosCrypto
-IMPS:ImpulseCoin
 TOR:Torcoin
 AGLC:AgrolifeCoin
-ZNE:Zonecoin
-CRT:CRTCoin
+TYCHO:Tychocoin
+IMPS:ImpulseCoin
 RSGP:RSGPcoin
-CRDNC:Credence Coin
+CRT:CRTCoin
+ZNE:Zonecoin
+CRDNC:Credence-Coin
 IBANK:iBank
-DOLLAR:Dollar Online
+DOLLAR:Dollar-Online
 CAB:Cabbage
+SOCC:SocialCoin
 ELS:Elysium
-BIOB:BioBar
 SDP:SydPak
-CTIC3:Coimatic 3.0
-ALTC:Antilitecoin
+BIOB:BioBar
+CTIC3:Coimatic-3.0
 P7C:P7Coin
+ALTC:Antilitecoin
 FXE:FuturXe
 CONX:Concoin
 NODC:NodeCoin
-SANDG:Save and Gain
+SANDG:Save-and-Gain
 GSR:GeyserCoin
-MGM:Magnum
 SLFI:Selfiecoin
 CCM100:CCMiner
+MGM:Magnum
 CALC:CaliphCoin
-DGCS:Digital Credits
+DGCS:Digital-Credits
 PIZZA:PizzaCoin
-HT:Huobi Token
+HT:Huobi-Token
 ELA:Elastos
 ATMC:ATMCoin
 WIC:WaykiChain
-HPY:Hyper Pay
+HPY:Hyper-Pay
 EKT:EDUCare
-CHAT:ChatCoin
 RUFF:Ruff
-TRUE:True Chain
+TRUE:True-Chain
 LET:LinkEye
-OC:OceanChain
-AIDOC:AI Doctor
 TOPC:TopChain
-BCD:Bitcoin Diamond
-GNX:Genaro Network
-LBTC:Lightning Bitcoin [Futures]
-SMT:SmartMesh
+AIDOC:AI-Doctor
+BCD:Bitcoin-Diamond
+GNX:Genaro-Network
+OC:OceanChain
+CHAT:ChatCoin
+LBTC:Lightning-Bitcoin-[Futures]
 CPC:CPChain
-FRGC:Fargocoin
+OF:OFCOIN
+SMT:SmartMesh
+AAC:Acute-Angle-Cloud
 CFUN:CFun
-AAC:Acute Angle Cloud
+FAIR:FairGame
 MTX:Matryx
-NKC:Nework
 SHOW:Show
-PRS:PressOne
+NKC:Nework
 HLC:HalalChain
 EKO:EchoLink
 YEE:Yee
 READ:Read
-FAIR:FairGame
-OF:OFCOIN
-GEM:Gems 
-EPC:Electronic PK Chain
-UBTC:United Bitcoin
-XTZ:Tezos (Pre-Launch)
+PRS:PressOne
+FRGC:Fargocoin
+UBTC:United-Bitcoin
 AWR:AWARE
-W3C:W3Coin
-FSN:Fusion
-PXS:Pundi X
-LCC:Litecoin Cash
-BCX:BitcoinX
-LIGHT:LightChain
-ACC:ACChain
-CAN:Content and AD Network
-MAN:Matrix AI Network
-BOS:BOScoin
-CME:Cashme
+GEM:Gems-
+PXS:Pundi-X
 TKY:THEKEY
-UGT:UG Token
-STC:StarChain
-REN:Republic Protocol
-KCASH:Kcash
-HMC:Hi Mutual Society
-MWAT:RED MWAT
-SEXC:ShareX
-SBTC:Super Bitcoin
-VLC:ValueChain
-SSC:SelfSell
-RCT:RealChain
-MOF:Molecular Future
-INF:InfChain
-IPC:IPChain
-MOBI:Mobius
-ATN:ATN
+XTZ:Tezos-(Pre-Launch)
+CME:Cashme
 SPC:SpaceChain
-CHSB:SwissBorg
-CANDY:Candy
-UTNP:Universa
-XIN:Mixin
+W3C:W3Coin
+BCX:BitcoinX
+ACC:ACChain
+LCC:Litecoin-Cash
+LIGHT:LightChain
+CAN:Content-and-AD-Network
+FSN:Fusion
+MAN:Matrix-AI-Network
+UGT:UG-Token
+STC:StarChain
+BOS:BOScoin
+REN:Republic-Protocol
+EPC:Electronic-PK-Chain
+HMC:Hi-Mutual-Society
+KCASH:Kcash
+SBTC:Super-Bitcoin
+SSC:SelfSell
+SEXC:ShareX
+MWAT:RED-MWAT
+RCT:RealChain
+VLC:ValueChain
+INF:InfChain
+MOF:Molecular-Future
 TIG:Tigereum
-QUBE:Qube
+IPC:IPChain
+ATN:ATN
 IQT:iQuant
+MOBI:Mobius
+CMS:COMSA-[ETH]
+CANDY:Candy
+XIN:Mixin
+UTNP:Universa
+QUBE:Qube
 DDD:Scry.info
-BAR:Titanium Blockchain
-GEO:GeoCoin
+BAR:Titanium-Blockchain
+CHSB:SwissBorg
+BSR:BitSoar
 ECH:Etherecash
-EVN:Envion
 MOAC:MOAC
-BKX:Bankex
-UIP:UnlimitedIP
-AVH:Animation Vision Cash
-TDX:Tidex Token
-CMS:COMSA [ETH]
-REF:RefToken
-UGC:ugChain
+TDX:Tidex-Token
+AVH:Animation-Vision-Cash
+EVN:Envion
 FOTA:Fortuna
-ANI:Animecoin
-BIG:BigONE Token
-CMS:COMSA [XEM]
-WETH:WETH
+CMS:COMSA-[XEM]
+REF:RefToken
 NTK:Neurotoken
-WC:WINCOIN
-FIL:Filecoin [Futures]
-SWTC:Jingtum Tech
-TMC:TimesCoin
-XID:Sphre AIR 
-MGC:MergeCoin
-XIN:Infinity Economics
-JEW:Shekel
-SBC:StrikeBitClub
-COFI:CoinFi
-B2X:SegWit2x
-KZC:Kzcash
-CRPT:Crypterium
-IDT:InvestDigital
-ACAT:Alphacat
-ZENGOLD:ZenGold
-MDT:Measurable Data Token
-CPY:Copytrack
-GLA:Gladius Token
-MLM:MktCoin
-TCT:TokenClub
+ANI:Animecoin
+BIG:BigONE-Token
+UGC:ugChain
+FIL:Filecoin-[Futures]
+BKX:Bankex
 ENT:ENTCash
-TBX:Tokenbox
+XIN:Infinity-Economics
+WC:WINCOIN
+SWTC:Jingtum-Tech
+WETH:WETH
+SBC:StrikeBitClub
+UIP:UnlimitedIP
+MGC:MergeCoin
+XID:Sphre-AIR-
+GEO:GeoCoin
+JEW:Shekel
+TMC:TimesCoin
+COFI:CoinFi
+ACAT:Alphacat
+CRPT:Crypterium
+KZC:Kzcash
+B2X:SegWit2x
+MDT:Measurable-Data-Token
+IDT:InvestDigital
+MLM:MktCoin
 MAG:Maggie
-CLUB:ClubCoin
-ESZ:EtherSportz
+TCT:TokenClub
+TBX:Tokenbox
 VZT:Vezt
+ESZ:EtherSportz
+ZENGOLD:ZenGold
+CLUB:ClubCoin
 NMS:Numus
-SHND:StrongHands
-THS:TechShares
 CAS:Cashaa
+CPY:Copytrack
+SHND:StrongHands
 DIM:DIMCOIN
-BIO:BioCoin
+BT2:BT2-[CST]
 IFC:Infinitecoin
+GCS:GameChain-System
+BIO:BioCoin
 CLD:Cloud
-GCS:GameChain System
-DTH:Dether
-DXT:Datawallet
 DAV:DavorCoin
-SHELL:ShellCoin
-IDXM:IDEX Membership
-SJW:SJWCoin
+DXT:Datawallet
 QBT:Cubits
-BTW:Bitcoin White
-MSD:MSD
+SHELL:ShellCoin
+EAG:EA-Coin
+GLA:Gladius-Token
+IDXM:IDEX-Membership
+XQN:Quotient
+SJW:SJWCoin
 BCDN:BlockCDN
 SIC:Swisscoin
-XQN:Quotient
-KB3:B3Coin
-CSC:CasinoCoin
-EAG:EA Coin
-TOK:Tokugawa
+BTW:Bitcoin-White
+MSD:MSD
 ESC:Escroco
+DTH:Dether
+CSC:CasinoCoin
+TOK:Tokugawa
+GBG:Golos-Gold
 TOKEN:SwapToken
-LDCN:LandCoin
-GBG:Golos Gold
-CEFS:CryptopiaFeeShares
-BTCA:Bitair
+KB3:B3Coin
 CRAVE:Crave
-MVC:Maverick Chain
-SPK:Sparks
-OX:OX Fina
-ORE:Galactrum
-PCN:PeepCoin
-WIC:Wi Coin
+CEFS:CryptopiaFeeShares
 ZAP:Zap
-DMC:DynamicCoin
+ORE:Galactrum
+BTCA:Bitair
+OX:OX-Fina
+MVC:Maverick-Chain
+PCN:PeepCoin
+LDCN:LandCoin
+SPK:Sparks
+WIC:Wi-Coin
 PNX:Phantomx
-PCS:Pabyosi Coin (Special)
-GRX:GOLD Reward Token
-HC:Harvest Masternode Coin
-WA:WA Space
-GOD:Bitcoin God
-OPES:Opescoin
-BSN:Bastonet
-BTE:BitSerial
-VASH:VPNCoin
-BSR:BitSoar
-NEOG:NEO GOLD
-XMRG:Monero Gold
-MUSE:MUSE
-FDX:FidentiaX
-SENSE:Sense
-SUP:Superior Coin
+PCS:Pabyosi-Coin-(Special)
+GRX:GOLD-Reward-Token
+HC:Harvest-Masternode-Coin
+WA:WA-Space
 DMT:DMarket
+VASH:VPNCoin
+NEOG:NEO-GOLD
+GOD:Bitcoin-God
+DMC:DynamicCoin
+PRES:President-Trump
+MUSE:MUSE
+OPES:Opescoin
+BTE:BitSerial
 IRL:IrishCoin
-XSTC:Safe Trade Coin
-TCOIN:T-coin
-UTT:United Traders Token
+LKC:LinkedCoin
+XSTC:Safe-Trade-Coin
+SENSE:Sense
+SUP:Superior-Coin
 MCR:Macro
-GAY:GAY Money
-SJCX:Storjcoin X
-TER:TerraNova
-HTML5:HTML5COIN
-BCA:Bitcoin Atom
-ABC:Alphabit
-CYDER:Cyder
-BAT:BatCoin
+XMRG:Monero-Gold
+FDX:FidentiaX
+BSN:Bastonet
+TESLA:TeslaCoilCoin
+UTT:United-Traders-Token
+TCOIN:T-coin
+DRPU:DRP-Utility
+GARY:President-Johnson
+GAY:GAY-Money
+GDC:GrandCoin
 XRY:Royalties
+THS:TechShares
+SJCX:Storjcoin-X
+VULC:Vulcano
+BCA:Bitcoin-Atom
+ABC:Alphabit
 ELC:Elacoin
-DRPU:DRP Utility
+BITCF:First-Bitcoin-Capital
+CYDER:Cyder
+TER:TerraNova
+PLX:PlexCoin
+HTML5:HTML5COIN
 DEUS:DeusCoin
 NOX:Nitro
-SHA:SHACoin
-PLX:PlexCoin
+FONZ:Fonziecoin
 EDRC:EDRCoin
-FLAP:FlappyCoin
-HDLB:HODL Bucks
+SHA:SHACoin
 RICHX:RichCoin
-SND:Sand Coin
-VULC:Vulcano
-GDC:GrandCoin
-TOP:TopCoin
-BIT:First Bitcoin
-FRN:Francs
-AKY:Akuya Coin
-BTBc:Bitbase
-BT2:BT2 [CST]
-GUESS:Peerguess
-ELITE:Ethereum Lite
-FAP:FAPcoin
-UNRC:UniversalRoyalCoin
-RBBT:RabbitCoin
-BEST:BestChain
-INDI:Indicoin
-WINK:Wink
+BAT:BatCoin
 BLAZR:BlazerCoin
+INDI:Indicoin
+XOT:Internet-of-Things
+ELITE:Ethereum-Lite
+FRN:Francs
+GUESS:Peerguess
 ZBC:Zilbercoin
-SAK:Sharkcoin
-ROYAL:RoyalCoin
-PRN:Protean
-SKR:Sakuracoin
-QORA:Qora
-MAGN:Magnetcoin
-SFE:SafeCoin
-GARY:President Johnson
-ZSE:ZSEcoin
-SKULL:Pirate Blocks
-NAMO:NamoCoin
+RBBT:RabbitCoin
+BTBc:Bitbase
+AKY:Akuya-Coin
+HDLB:HODL-Bucks
+FLAP:FlappyCoin
+UNRC:UniversalRoyalCoin
 REGA:Regacoin
-DUTCH:Dutch Coin
-COR:CORION
-SLOTH:Slothcoin
-WSX:WeAreSatoshi
-NBIT:netBit
-GOLF:Golfcoin
-UR:UR
-LKC:LinkedCoin
-MCI:Musiconomi
+FAP:FAPcoin
+SAK:Sharkcoin
+BEST:BestChain
+PRN:Protean
+TURBO:TurboCoin
+NUMUS:NumusCash
 APC:AlpaCoin
-JIYO:Jiyo
+SFE:SafeCoin
+SKR:Sakuracoin
+SLOTH:Slothcoin
+SKULL:Pirate-Blocks
+BTCM:BTCMoon
+FAZZ:Fazzcoin
+TOP:TopCoin
+UR:UR
+COR:CORION
+NBIT:netBit
+BIT:First-Bitcoin
+GOLF:Golfcoin
+DUTCH:Dutch-Coin
+QORA:Qora
+RUPX:Rupaya-[OLD]
 BUB:Bubble
 GRN:Granite
-LEVO:Levocoin
-PRES:President Trump
-HIGH:High Gain
-RUPX:Rupaya [OLD]
 TELL:Tellurion
-FAZZ:Fazzcoin
-ETT:EncryptoTel [ETH]
-LEPEN:LePen
-MINEX:Minex
-SISA:SISA
-POKE:PokeCoin
-NUMUS:NumusCash
+HIGH:High-Gain
 CFC:CoffeeCoin
-STEX:STEX
-BTCM:BTCMoon
-GMX:GoldMaxCoin
+JIYO:Jiyo
+MCI:Musiconomi
+ROYAL:RoyalCoin
+NAMO:NamoCoin
+LEPEN:LePen
+SISA:SISA
 CMP:Compcoin
-FONZ:Fonziecoin
-EGOLD:eGold
-INDIA:India Coin
-ANTX:Antimatter
+MINEX:Minex
 MARX:MarxCoin
-PLC:Polcoin
-HYPER:Hyper
-DON:Donationcoin
-NTC:Natcoin
-XTD:XTD Coin
 ACES:Aces
+LEVO:Levocoin
+ZSE:ZSEcoin
+INDIA:India-Coin
+POKE:PokeCoin
+WSX:WeAreSatoshi
+PLC:Polcoin
+GMX:GoldMaxCoin
+MAGN:Magnetcoin
+HYPER:Hyper
+ETT:EncryptoTel-[ETH]
+ANTX:Antimatter
+HCC:Happy-Creator-Coin
+NTC:Natcoin
+WINK:Wink
 TRICK:TrickyCoin
-HNC:Huncoin
-TURBO:TurboCoin
-X2:X2
-MONETA:Moneta
-UNC:UNCoin
 KDC:KlondikeCoin
-RUNNERS:Runners
-HCC:Happy Creator Coin
+HNC:Huncoin
 PRIMU:Primulon
-HALLO:Halloween Coin
-TODAY:TodayCoin
-PSY:Psilocybin
 WOW:Wowcoin
+TODAY:TodayCoin
+HALLO:Halloween-Coin
+EGOLD:eGold
+X2:X2
+DON:Donationcoin
 FFC:FireFlyCoin
-RUBIT:RubleBit
-DBG:Digital Bullion Gold
-SIGMA:SIGMAcoin
+RUNNERS:Runners
+KASHH:KashhCoin
 DISK:DarkLisk
-PAYP:PayPeer
-MBL:MobileCash
+DBG:Digital-Bullion-Gold
+MONETA:Moneta
+XTD:XTD-Coin
+GAIN:UGAIN
 RYZ:ANRYZE
 DCRE:DeltaCredits
-FUTC:FutCoin
-BET:BetaCoin
-ACN:Avoncoin
-CC:CyberCoin
-ASN:Aseancoin
-YES:Yescoin
-FRWC:FrankyWillCoin
+MBL:MobileCash
 PDG:PinkDog
-TEAM:TeamUp
-TOPAZ:Topaz Coin
+FUTC:FutCoin
+ACN:Avoncoin
+YES:Yescoin
+BET:BetaCoin
 BIRDS:Birds
+TEAM:TeamUp
+TOPAZ:Topaz-Coin
 KARMA:Karmacoin
-TLE:Tattoocoin (Limited Edition)
-RCN:Rcoin
+RUBIT:RubleBit
+TLE:Tattoocoin-(Limited-Edition)
+CC:CyberCoin
+SPORT:SportsCoin
+SND:Sand-Coin
 CHEAP:Cheapcoin
+RCN:Rcoin
+LAZ:Lazaruscoin
+STEX:STEX
 DASHS:Dashs
 SMOKE:Smoke
-OP:Operand
+SIGMA:SIGMAcoin
+MMXVI:MMXVI
+ASN:Aseancoin
 EGG:EggCoin
+PSY:Psilocybin
+PAYP:PayPeer
 VOYA:Voyacoin
 XAU:Xaucoin
-MMXVI:MMXVI
 MONEY:MoneyCoin
-GAIN:UGAIN
+XVE:The-Vegan-Initiative
 AV:AvatarCoin
 AXIOM:Axiom
-LTH:LAthaan
-KASHH:KashhCoin
-BITOK:Bitok
-PRM:PrismChain
-CYC:Cycling Coin
-OMC:Omicron
-XID:International Diamond
 RHFC:RHFCoin
+LTH:LAthaan
+CYC:Cycling-Coin
+OMC:Omicron
+UNC:UNCoin
+OP:Operand
+XID:International-Diamond
 SNAKE:SnakeEyes
 GML:GameLeagueCoin
 DUB:Dubstep
 IVZ:InvisibleCoin
 BAC:BitAlphaCoin
 TCR:TheCreed
-TESLA:TeslaCoilCoin
-SPORT:SportsCoin
-LAZ:Lazaruscoin
-XVE:The Vegan Initiative
-XOT:Internet of Things
-BITCF:First Bitcoin Capital
+PRM:PrismChain
+FRWC:FrankyWillCoin
+BITOK:Bitok
 FID:BITFID
 LLT:LLToken
 TRIA:Triaconta
 FRCT:Farstcoin
 OCOW:OCOW
-XDE2:XDE II
-ADK:Aidos Kuneen
+XDE2:XDE-II
+ADK:Aidos-Kuneen
