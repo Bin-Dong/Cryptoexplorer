@@ -10,6 +10,7 @@ def get_coin_info():
 	result.close()
 	try:
 		format(JSON[0])
+		return JSON[0]['name']
 	except:
 		returned = find_symbols(currency)
 		if returned == 0:
@@ -39,3 +40,4 @@ def find_symbols(currency):
 f = open("mapping.txt", "r")
 currency_list = f.readlines();
 f.close()
+

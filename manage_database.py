@@ -1,7 +1,8 @@
+import pickle
 # '''database[full coin name] = [ average rating,number of raters, [ [rating,comment], .....] ]'''
 
 
-def write_comment(name,rating,comment):
+def write_comment(name,comment,rating=None):
     '''accept full crypto currency name, user comments, and ratings'''
     database[name][0] = (database[name][0]*database[name][1]+rating)/(database[name][1]+1)
     database[name][1] += 1    # increase the counter by one
@@ -40,6 +41,16 @@ def delete_comment(name,index):
 
 def delete_currency(name):
     database.pop(name)
+
+def save_database():
+    f = ('dataset.pkl','wb')
+    pickle.dump(database,f,-1)
+    f.close()
+
+def load_database():
+    f = open('dataset.pkl','rb')
+    database = pickle.load(f)
+    f.close()
 
 database = create_database()
 mapping = create_mapping()
