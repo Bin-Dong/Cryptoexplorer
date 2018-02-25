@@ -8,7 +8,7 @@ def main():
 	JSON = result.json()
 	counter = 0;
 	for x in range (0,len(JSON)):
-		writer.write(JSON[x]["symbol"] + ":" + JSON[x]["name"] +"\n")
+		writer.write(JSON[x]["symbol"] + ":" + JSON[x]["name"].replace(" ","-") +"\n")
 	writer.close()
 
 def format(JSON):

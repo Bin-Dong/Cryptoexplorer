@@ -10,4 +10,4 @@ def get_introduction(name):
     text = soup.get_text()
     start = text.find('Introduction')   # start location for introduction
     end = text.find('\n\n\n',start)
-    return text[start:end]      # return the introduction
+    print(text[start+14:end])     # print the intruction after the label
