@@ -50,6 +50,7 @@ library(vars)
  pred=predict(var.result, n.ahead = 8, ci = 0.95)
  ts.plot(pred$endog[,2]) 
  time=as.POSIXct(pred$endog[,1],origin="1970-01-01",tz="GMT")
+ # write.csv(coin_train,"coin_train.csv",row.names = FALSE)
  
 #colSds(as.matrix(coin[391:400,-1]))
 #setNames(coin_train[,1]="time")
