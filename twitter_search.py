@@ -22,7 +22,7 @@ def get_Twitter_result(keywords):
         for tweet in ts.search_tweets_iterable(tso):
             # print( '@%s tweeted: %s' % ( tweet['user']['screen_name'], tweet['text'] ) )
             messages.append(tweet['text'])
-            f.writelines(tweet['text']+'\n')
+            f.writelines(format('@%s tweeted: %s\n' % ( tweet['user']['screen_name'], tweet['text'] )))
         f.close()
         return messages
     except TwitterSearchException as e: # take care of all those ugly errors if there are some
