@@ -71,10 +71,9 @@ def write_tweets(tweets, filename):
 		for tweet in tweets:
 			json.dump(tweet._json, f)
 			f.write('\n')
-			print(tweet._json)
 
 
-def main():
+def search_coin(name):
 	''' This is a script that continuously searches for tweets
 		that were created over a given number of days. The search
 		dates and search phrase can be changed below. '''
@@ -82,7 +81,7 @@ def main():
 
 
 	''' search variables: '''
-	search_phrases = ['Bitcoin']
+	search_phrases = [name]
 	time_limit = 1.5                           # runtime limit in hours
 	max_tweets = 100                           # number of tweets per search (will be
 											   # iterated over) - maximum is 100
@@ -170,4 +169,5 @@ def main():
 
 
 if __name__ == "__main__":
-	main()
+	search_coin()
+
