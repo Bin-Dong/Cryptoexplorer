@@ -19,5 +19,8 @@ train = messages[:112]
 test = messages[112:]
 m = MLC(train,scores[:112])
 reviews = set(m.get_reviews(test))
+f = open('review'+currency+'.txt','w')
 for l in reviews:
-    print(l)
+    f.write(l+'\n')
+f.close()
+
