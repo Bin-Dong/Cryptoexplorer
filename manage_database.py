@@ -27,6 +27,7 @@ def create_database():
     f.close()
     for line in currency_list:
         split = line.split(":")
+        print(split[1][0:-1])
         new_database[split[1][0:-1]] = [0,0,[]] #rating is index 0, counter is index 1, and list of comments is index 2.
     return new_database;
 
