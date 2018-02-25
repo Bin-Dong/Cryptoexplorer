@@ -1,6 +1,7 @@
 import urllib.request
 from bs4 import BeautifulSoup
 
+
 def get_introduction(name):
     '''Accept the name of the currency, return its introduction'''
     if not name:
@@ -16,3 +17,4 @@ def get_introduction(name):
     start = text.find('Introduction')   # start location for introduction
     end = text.find('\n\n\n',start)
     print(text[start+14:end])     # print the intruction after the label
+
