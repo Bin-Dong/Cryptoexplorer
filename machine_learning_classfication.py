@@ -95,12 +95,7 @@ class MLC:
         model = LogisticRegression(multi_class='multinomial',solver='newton-cg')
         model.fit(training_data,self.score)
         predictions = model.predict(test_data)
-        return predictions
-
-    # def get_reviews(self,messages):
-    #     '''accept a list of messages, return a list of messages that are classfied as useful results'''
-    #     dataset = self.dataset
-    #     training_data = self.generate_feature_set(dataset)
+        return [messages[i] for i in range(len(predictions)) if predictions[i] == 1]
 
 
 
@@ -113,7 +108,10 @@ scores = []
 for l in text:
     message,score = l.split('^')
     messages.append(message)
-    scores.append(score[:-1])
-m = MLC(messages[:200],scores[:200])
-pred = m.get_reviews(messages[200:])
-print(pred)
+    scores.append(int(score[:-1]))
+train = messages[:112]
+test = messages[112:]
+m = MLC(train,scores[:112])
+reviews = set(m.get_reviews(test))
+for l in reviews:
+    print(l)
