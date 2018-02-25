@@ -1,6 +1,5 @@
 from  get_introduction import *
 from  get_api import *
-from twitter_search import *
 from machine_learning_classfication import *
 
 currency = get_coin_info()
